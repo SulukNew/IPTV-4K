@@ -69,9 +69,6 @@ http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/2946.ts
 #EXTINF:-1,Suluk® → YES SPORT ONE HD
 http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/7503.ts
 
-#EXTINF:-1,Suluk® → ESPN
-http://gameriptv.com:80/chan/sd54fIs21ds654/espn.php
-
 #EXTINF:-1,Suluk® → SKYNET SPORTS 1
 http://191.96.38.213:443/free41/00_skynetsport1_480p/playlist.m3u8
 
@@ -137,6 +134,27 @@ http://163.172.14.210:80/live?channelId=124&deviceMac=00:1A:79:3C:C9:56&uid=1190
 
 #EXTINF:-1,Suluk® → SKY SPORTS F1
 http://163.172.106.121:9001/live?channelId=134&deviceMac=00:1A:79:3C:C9:56&uid=11905
+
+#EXTINF:-1,Suluk® → ESPN
+http://gameriptv.com:80/chan/sd54fIs21ds654/espn.php
+
+#EXTINF:-1,Suluk® → ESPN 2
+http://gameriptv.com:80/chan/sd54fIs21ds654/espn2.php
+
+#EXTINF:-1,Suluk® → ESPN 3
+http://gameriptv.com:80/chan/sd54fIs21ds654/espn3.php
+
+#EXTINF:-1,Suluk® → ESPN PLUS
+http://gameriptv.com:80/chan/sd54fIs21ds654/espnplus.php
+
+#EXTINF:-1,Suluk® → FOX SPORT
+http://gameriptv.com:80/chan/sd54fIs21ds654/foxsports.php
+
+#EXTINF:-1,Suluk® → FOX SPORT 2
+http://gameriptv.com:80/chan/sd54fIs21ds654/foxsports2.php
+
+#EXTINF:-1,Suluk® → FOX SPORT 3
+http://gameriptv.com:80/chan/sd54fIs21ds654/foxsports3.php
 
 #EXTINF:-1,Suluk® → NBC Sport
 http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4150.ts
