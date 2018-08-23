@@ -69,6 +69,9 @@ http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/2946.ts
 #EXTINF:-1,Suluk® → YES SPORT ONE HD
 http://paliptv.net:25461/live/LC5N41Qqvj/vKsttb0aix/7503.ts
 
+#EXTINF:-1,Suluk® → ESPN
+http://gameriptv.com:80/chan/sd54fIs21ds654/espn.php
+
 #EXTINF:-1,Suluk® → SKYNET SPORTS 1
 http://191.96.38.213:443/free41/00_skynetsport1_480p/playlist.m3u8
 
