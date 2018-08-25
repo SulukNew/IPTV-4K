@@ -25,13 +25,16 @@ http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:78a1bc703242/playlist.m3u
 http://191.96.38.213:443/free41/0x777_skynetsporthd_720p/playlist.m3u8
 
 #EXTINF:-1,Suluk® → BEIN SPORTS 1 HD TH
-http://50.7.92.2:8278/bein1_pat/playlist.m3u8
+http://103.89.176.45:8278/bein1_pat/playlist.m3u8
 
 #EXTINF:-1,Suluk® → BEIN SPORTS 2 HD TH
-http://50.7.92.2:8278/bein2_pat/playlist.m3u8
+http://5.79.87.234:8278/bein2_pat/playlist.m3u8
 
 #EXTINF:-1,Suluk® → BEIN SPORTS 3 HD TH
-http://50.7.92.2:8278/bein3_pat/playlist.m3u8
+http://5.79.87.234:8278/bein3_pat/playlist.m3u8
+
+#EXTINF:-1,Suluk® → BEIN SPORTS 4 HD TH
+http://5.79.87.234:8278/bein4_pat/playlist.m3u8
 
 #EXTINF:-1,Suluk® → SKY SPORTS PREMIER LEAGUE
 http://163.172.43.30:8081/live/skpre/playlist.m3u8
