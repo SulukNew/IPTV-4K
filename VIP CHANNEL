@@ -3,19 +3,19 @@
 #EXTINF:-1, == SULUK IPTV ==
 https://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png
 
-#EXTINF:0, group-title="Sport",Bein 1 TH
-http://103.89.176.45:8278/bein1_pat/playlist.m3u8
+#EXTINF:-1,Suluk® → BEIN 1 TH
+http://103.89.176.45:8278/bein1_pat/playlist.m3u8?tid=12077693&tsum=8a44407a9f72c1d919b71b2700be9589
 
-#EXTINF:0, group-title="Sport",Bein 2 TH
+#EXTINF:-1,Suluk® → BEIN 2 TH
 http://5.79.87.234:8278/bein2_pat/playlist.m3u8?tid=15475909&tsum=8fd54ad03acb976d7dc7db8dd26c8738
 
-#EXTINF:0, group-title="Sport",Bein 3 TH
+#EXTINF:-1,Suluk® → BEIN 3 TH
 http://5.79.87.234:8278/bein3_pat/playlist.m3u8?tid=10669322&tsum=5faa41a6d2f6e2482026087138e5a10a
 
-#EXTINF:0, group-title="Sport",Bein 4 TH
+#EXTINF:-1,Suluk® → BEIN 4 TH
 http://5.79.87.234:8278/bein4_pat/playlist.m3u8?tid=13110691&tsum=8b1465f65c68d8b1f789c6381c1dc67b
 
-#EXTINF:0, group-title="Sport",Skynet HD
+#EXTINF:-1,Suluk® → SKYNET HD
 http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=17118102&tsum=9767e4535c8cc212a3ac69143d4cf4c5
 
 #EXTINF:-1,Suluk® → ASTRO SUPERSPORT LIVE HD 
