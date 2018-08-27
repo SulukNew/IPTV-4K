@@ -214,6 +214,15 @@ http://62.210.214.28:80/live?channelId=146&uid=1732&deviceMac=00:1A:79:3C:C0:90
 #EXTINF:-1,Suluk® → BT Sport ESPN HD
 http://62.210.214.28:80/live?channelId=147&uid=1732&deviceMac=00:1A:79:3C:C0:90
 
+#EXTINF:-1,Suluk® → CTN
+http://115.178.24.80:1935/dvr/_definst_/c8.stream/chunklist_w751712199.m3u8
+
+#EXTINF:-1,Suluk® → CNC
+http://115.178.24.80:1935/dvr/_definst_/c8.stream/chunklist_w1271657497.m3u8
+
+#EXTINF:-1,Suluk® → MY TV
+http://167.99.65.12:1935/live/myStream/chunklist_w1611698086.m3u8
+
 #EXTINF:-1,Suluk® → SPORT TV 1 HD
 http://77.54.248.94:9981/stream/channelid/2135667?ticket=4728F57616F4DF9E11BFCBB9626ACC40EA0217FB&profile=pass
 
@@ -236,16 +245,16 @@ http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
 
 #EXTINF:-1,Suluk® → SONY TEN 2 HD
-http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/05.m3u8
 
 #EXTINF:-1,Suluk® → SONY TEN 3 HD
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
+http://mhms6.airtel.tv/wh7f454c46tw2828204960_1272463506/PLTV/88888888/224/3221226330/04.m3u8
 
 #EXTINF:-1,Suluk® → SONY ESPN HD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
+http://cshms4.airtel.tv/wh7f454c46tw3044125113_1979135345/PLTV/88888888/224/3221226076/05.m3u8
 
 #EXTINF:-1,Suluk® → SONY SIX HD
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/05.m3u8
 
 #EXTINF:-1,Suluk® → Матч!
 http://persik.by/stream/2887/57172/276.m3u8
