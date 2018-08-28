@@ -9,6 +9,123 @@ http://103.89.176.45:8278/Hbohd/playlist.m3u8
 #EXTINF:-1,Suluk® → FOX MOVIES
 http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=11626167&tsum=bf224472f6e0e4d7a09f6dcca40fa5ea
 
+#EXTINF:-1,Suluk® → STAR SPORT (KR)
+http://110.11.47.122:9981/stream/channelid/1156025946?ticket=1cbdd9ac5692682dd81894a0028acf3548d01dbd&profile=pass
+
+#EXTINF:-1,Suluk® → BEIN 1 US
+http://191.96.38.213:443/free/0x777_prtv_720p/playlist.m3u8
+
+#EXTINF:-1,Suluk® → BEIN 2 US
+http://191.96.38.213:443/free/0x777_prtv2_720p/playlist.m3u8
+
+#EXTINF:-1,Suluk® → Bein Sport 1 TH
+http://d002free.ddns.net:443/epl-bein1_720/index.m3u8
+
+#EXTINF:-1,Suluk® → Bein Sport FHD
+http://d002free.ddns.net:443/epl-bein1_1080/index.m3u8
+
+#EXTINF:-1,Suluk® → Bein Sport 2 TH
+http://d002free.ddns.net:443/epl-bein2_720/index.m3u8
+
+#EXTINF:-1,Suluk® → Bein Sport 2 FHD
+http://d002free.ddns.net:443/epl-bein2_1080/index.m3u8
+
+#EXTINF:-1,Suluk® → Bein Sport 3 TH
+http://d002free.ddns.net:443/epl-bein3_720/index.m3u8
+
+#EXTINF:-1,Suluk® → Bein Sport 3 FHD
+http://d002free.ddns.net:443/epl-bein3_1080/index.m3u8
+
+#EXTINF:-1,Suluk® → Bein Sport 4 TH
+http://d002free.ddns.net:443/epl-bein4_720/index.m3u8
+
+#EXTINF:-1,Suluk® → Bein Sport 4 FHD
+http://d002free.ddns.net:443/epl-bein4_1080/index.m3u8
+
+#EXTINF:-1,Suluk® → Bein Sport 5 TH
+http://vippool.ddns.net:19357/pool136/0x222_beinsporthd5_720p/playlist.m3u8
+
+#EXTINF:-1,Suluk® → Bein Sport 6 TH
+http://vippool.ddns.net:19357/pool136/0x222_beinsporthd6_720p/playlist.m3u8
+
+#EXTINF:-1,Suluk® → Bein Sport 1 France
+http://d002free.ddns.net:443/fr-bein1hd_480/index.m3u8
+
+#EXTINF:-1,Suluk® → Bein Sport 2 France
+http://d002free.ddns.net:443/fr-bein3hd_480/index.m3u8
+
+#EXTINF:-1,Suluk® → Bein Sport 3 France
+http://d002free.ddns.net:443/fr-bein3hd_480/index.m3u8
+
+#EXTINF:-1,Suluk® → Fox Sports 1
+http://d002free.ddns.net:443/hd-foxsports1_720/index.m3u8
+
+#EXTINF:-1,Suluk® → Fox Sports 2
+http://cdn2.bear-tv.com/freetv/TOT_foxsport2/playlist.m3u8
+
+#EXTINF:-1,Suluk® → Fox Sports 2
+http://d002free.ddns.net:443/sd-foxsports2_480/index.m3u8
+
+#EXTINF:-1,Suluk® → Fox Sports 3
+http://cdn2.bear-tv.com/freetv/TOT_foxsport3/playlist.m3u8
+
+#EXTINF:-1,Suluk® → Fox Sports 3
+http://d002free.ddns.net:443/sd-foxsports3_480/index.m3u8
+
+#EXTINF:-1,Suluk® → FS1
+http://d002free.ddns.net:443/us-foxsports1_480/index.m3u8
+
+#EXTINF:-1,Suluk® → FS2
+http://d002free.ddns.net:443/us-foxsports2_480/index.m3u8
+
+#EXTINF:-1,Suluk® → True Sport HD1
+http://d002free.ddns.net:443/hd-tsport1_720/index.m3u8
+
+#EXTINF:-1,Suluk® → True Sport HD2
+http://d002free.ddns.net:443/hd-tsport2_720/index.m3u8
+
+#EXTINF:-1,Suluk® → True Sport HD3
+http://d002free.ddns.net:443/hd-tsport3_720/index.m3u8
+
+#EXTINF:-1,Suluk® → True Sport HD4
+http://d002free.ddns.net:443/hd-tsport4_720/index.m3u8
+
+#EXTINF:-1,Suluk® → True Sport 2
+http://d002free.ddns.net:443/sd-tsport2_480/index.m3u8
+
+#EXTINF:-1,Suluk® → True Sport 5
+http://d002free.ddns.net:443/sd-tsport5_480/index.m3u8
+
+#EXTINF:-1,Suluk® → True Sport 6
+http://d002free.ddns.net:443/sd-tsport6_480/index.m3u8
+
+#EXTINF:-1,Suluk® → True Sport 7
+http://d002free.ddns.net:443/sd-tsport7_480/index.m3u8
+
+#EXTINF:-1,Suluk® → True Tennis
+http://d002free.ddns.net:443/hd-tennis_720/index.m3u8
+
+#EXTINF:-1,Suluk® → Skynet Sport HD
+http://d002free.ddns.net:443/sd-skynetsportshd_720/index.m3u8
+
+#EXTINF:-1,Suluk® → Skynet Sport 1
+http://d002free.ddns.net:443/sd-skynetsports1_480/index.m3u8
+
+#EXTINF:-1,Suluk® → Skynet Sport 2
+http://d002free.ddns.net:443/sd-skynetsports2_480/index.m3u8
+
+#EXTINF:-1,Suluk® → Skynet Sport 3
+http://d002free.ddns.net:443/sd-skynetsports3_480/index.m3u8
+
+#EXTINF:-1,Suluk® → Skynet Sport 4
+http://d002free.ddns.net:443/sd-skynetsports4_480/index.m3u8
+
+#EXTINF:-1,Suluk® → Skynet Sport 5
+http://d002free.ddns.net:443/sd-skynetsports5_480/index.m3u8
+
+#EXTINF:-1,Suluk® → Skynet Sport 6
+http://d002free.ddns.net:443/sd-skynetsports6_480/index.m3u8
+
 #EXTINF:-1,Suluk® → BEIN 1 TH
 http://103.89.176.45:8278/bein1_pat/playlist.m3u8?tid=12077693&tsum=8a44407a9f72c1d919b71b2700be9589
 
