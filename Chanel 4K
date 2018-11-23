@@ -1,745 +1,1201 @@
 #EXTM3U
-#EXTINF:-1, ## SULUK IPTV 4K ##
-https://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png
-#EXTINF:-1, Suluk A&E 4K
-http://gearsreloaded.org:2086/live/polen/polen/145.m3u8
-#EXTINF:-1, Suluk ABC LA 4K
-http://gearsreloaded.org:2086/live/polen/polen/121.m3u8
-#EXTINF:-1, Suluk ABC NY 4K
-http://gearsreloaded.org:2086/live/polen/polen/122.m3u8
-#EXTINF:-1, Suluk ABC PHILLY 4K
-http://gearsreloaded.org:2086/live/polen/polen/123.m3u8
-#EXTINF:-1, Suluk AMC 4K
-http://gearsreloaded.org:2086/live/polen/polen/149.m3u8
-#EXTINF:-1, Suluk AMERICAN HEROES CHANNEL 4K
-http://gearsreloaded.org:2086/live/polen/polen/185.m3u8
-#EXTINF:-1, Suluk ANIMAL PLANET 4K
-http://gearsreloaded.org:2086/live/polen/polen/210.m3u8
-#EXTINF:-1, Suluk ANTENNA TV 4K
-http://gearsreloaded.org:2086/live/polen/polen/237.m3u8
-#EXTINF:-1, Suluk ASPIRE 4K
-http://gearsreloaded.org:2086/live/polen/polen/667.m3u8
-#EXTINF:-1, Suluk AUDIENCE NETWORK 4K
-http://gearsreloaded.org:2086/live/polen/polen/228.m3u8
-#EXTINF:-1, Suluk AWE 4K
-http://gearsreloaded.org:2086/live/polen/polen/91.m3u8
-#EXTINF:-1, Suluk AXS TV 4K
-http://gearsreloaded.org:2086/live/polen/polen/250.m3u8
-#EXTINF:-1, Suluk AZTECA 4K
-http://gearsreloaded.org:2086/live/polen/polen/669.m3u8
-#EXTINF:-1, Suluk BABY FIRST 4K
-http://gearsreloaded.org:2086/live/polen/polen/89.m3u8
-#EXTINF:-1, Suluk BBC AMERICA 4K
-http://gearsreloaded.org:2086/live/polen/polen/193.m3u8
-#EXTINF:-1, Suluk BEIN SPORTS 4K
-http://gearsreloaded.org:2086/live/polen/polen/222.m3u8
-#EXTINF:-1, Suluk BEIN SPORTS ESPANOL 4K
-http://gearsreloaded.org:2086/live/polen/polen/231.m3u8
-#EXTINF:-1, Suluk BET 4K
-http://gearsreloaded.org:2086/live/polen/polen/202.m3u8
-#EXTINF:-1, Suluk BET JAMZ 4K
-http://gearsreloaded.org:2086/live/polen/polen/241.m3u8
-#EXTINF:-1, Suluk BET SOUL 4K
-http://gearsreloaded.org:2086/live/polen/polen/227.m3u8
-#EXTINF:-1, Suluk BIG TEN NETWORK 4K
-http://gearsreloaded.org:2086/live/polen/polen/116.m3u8
-#EXTINF:-1, Suluk BOOMERANG 4K
-http://gearsreloaded.org:2086/live/polen/polen/184.m3u8
-#EXTINF:-1, Suluk BOUNCE 4K
-http://gearsreloaded.org:2086/live/polen/polen/239.m3u8
-#EXTINF:-1, Suluk BRAVO 4K
-http://gearsreloaded.org:2086/live/polen/polen/146.m3u8
-#EXTINF:-1, Suluk BUZZR 4K
-http://gearsreloaded.org:2086/live/polen/polen/547.m3u8
-#EXTINF:-1, Suluk CARS TV 4K
-http://gearsreloaded.org:2086/live/polen/polen/88.m3u8
-#EXTINF:-1, Suluk CARTOON NETWORK 4K
-http://gearsreloaded.org:2086/live/polen/polen/203.m3u8
-#EXTINF:-1, Suluk CBS LA 4K
-http://gearsreloaded.org:2086/live/polen/polen/135.m3u8
-#EXTINF:-1, Suluk CBS NY 4K
-http://gearsreloaded.org:2086/live/polen/polen/136.m3u8
-#EXTINF:-1, Suluk CBS PHILLY 4K
-http://gearsreloaded.org:2086/live/polen/polen/133.m3u8
-#EXTINF:-1, Suluk CBS SPORTS NETWORK 4K
-http://gearsreloaded.org:2086/live/polen/polen/134.m3u8
-#EXTINF:-1, Suluk BET HER 4K
-http://gearsreloaded.org:2086/live/polen/polen/5.m3u8
-#EXTINF:-1, Suluk CINEMAX 4K
-http://gearsreloaded.org:2086/live/polen/polen/271.m3u8
-#EXTINF:-1, Suluk CINEMAX 5STAR MAX 4K
-http://gearsreloaded.org:2086/live/polen/polen/273.m3u8
-#EXTINF:-1, Suluk CINEMAX ACTION MAX 4K
-http://gearsreloaded.org:2086/live/polen/polen/276.m3u8
-#EXTINF:-1, Suluk CINEMAX LATINO 4K
-http://gearsreloaded.org:2086/live/polen/polen/275.m3u8
-#EXTINF:-1, Suluk CINEMAX MOREMAX 4K
-http://gearsreloaded.org:2086/live/polen/polen/274.m3u8
-#EXTINF:-1, Suluk CINEMAX OUTERMAX 4K
-http://gearsreloaded.org:2086/live/polen/polen/663.m3u8
-#EXTINF:-1, Suluk CINEMAX THRILLER MAX 4K
-http://gearsreloaded.org:2086/live/polen/polen/272.m3u8
-#EXTINF:-1, Suluk CMT 4K
-http://gearsreloaded.org:2086/live/polen/polen/183.m3u8
-#EXTINF:-1, Suluk CMT MUSIC 4K
-http://gearsreloaded.org:2086/live/polen/polen/666.m3u8
-#EXTINF:-1, Suluk CNBC 4K
-http://gearsreloaded.org:2086/live/polen/polen/158.m3u8
-#EXTINF:-1, Suluk CNN 4K
-http://gearsreloaded.org:2086/live/polen/polen/108.m3u8
-#EXTINF:-1, Suluk CNN HD
-http://gearsreloaded.org:2086/live/polen/polen/109.m3u8
-#EXTINF:-1, Suluk COMEDY CENTRAL 4K
-http://gearsreloaded.org:2086/live/polen/polen/180.m3u8
-#EXTINF:-1, Suluk COMEDY TV 4K
-http://gearsreloaded.org:2086/live/polen/polen/87.m3u8
-#EXTINF:-1, Suluk COOKING CHANNEL 4K
-http://gearsreloaded.org:2086/live/polen/polen/181.m3u8
-#EXTINF:-1, Suluk COZI TV 4K
-http://gearsreloaded.org:2086/live/polen/polen/236.m3u8
-#EXTINF:-1, Suluk CRIME AND INVESTIGATION 4K
-http://gearsreloaded.org:2086/live/polen/polen/195.m3u8
-#EXTINF:-1, Suluk CSN PHILLY 4K
-http://gearsreloaded.org:2086/live/polen/polen/117.m3u8
-#EXTINF:-1, Suluk CSN PHILLY HD
-http://gearsreloaded.org:2086/live/polen/polen/118.m3u8
-#EXTINF:-1, Suluk CW PHILLY 4K
-http://gearsreloaded.org:2086/live/polen/polen/225.m3u8
-#EXTINF:-1, Suluk DESTINATION AMERICA 4K
-http://gearsreloaded.org:2086/live/polen/polen/171.m3u8
-#EXTINF:-1, Suluk DISCOVERY 4K
-http://gearsreloaded.org:2086/live/polen/polen/160.m3u8
-#EXTINF:-1, Suluk DISCOVERY FAMILY 4K
-http://gearsreloaded.org:2086/live/polen/polen/209.m3u8
-#EXTINF:-1, Suluk DISCOVERY LIFE 4K
-http://gearsreloaded.org:2086/live/polen/polen/234.m3u8
-#EXTINF:-1, Suluk DISCOVERY SCIENCE 4K
-http://gearsreloaded.org:2086/live/polen/polen/162.m3u8
-#EXTINF:-1, Suluk DISNEY 4K
-http://gearsreloaded.org:2086/live/polen/polen/150.m3u8
-#EXTINF:-1, Suluk DISNEY JR 4K
-http://gearsreloaded.org:2086/live/polen/polen/151.m3u8
-#EXTINF:-1, Suluk DISNEY XD 4K
-http://gearsreloaded.org:2086/live/polen/polen/152.m3u8
-#EXTINF:-1, Suluk DIY 4K
-http://gearsreloaded.org:2086/live/polen/polen/157.m3u8
-#EXTINF:-1, Suluk E! 4K
-http://gearsreloaded.org:2086/live/polen/polen/172.m3u8
-#EXTINF:-1, Suluk EL REY NETWORK 4K
-http://gearsreloaded.org:2086/live/polen/polen/199.m3u8
-#EXTINF:-1, Suluk ENCORE ACTION 4K
-http://gearsreloaded.org:2086/live/polen/polen/226.m3u8
-#EXTINF:-1, Suluk ENCORE SUSPENSE 4K
-http://gearsreloaded.org:2086/live/polen/polen/664.m3u8
-#EXTINF:-1, Suluk EPIX 4K
-http://gearsreloaded.org:2086/live/polen/polen/216.m3u8
-#EXTINF:-1, Suluk EPIX 2 4K
-http://gearsreloaded.org:2086/live/polen/polen/223.m3u8
-#EXTINF:-1, Suluk ESPN 4K
-http://gearsreloaded.org:2086/live/polen/polen/96.m3u8
-#EXTINF:-1, Suluk ESPN HD
-http://gearsreloaded.org:2086/live/polen/polen/97.m3u8
-#EXTINF:-1, Suluk ESPN 2 4K
-http://gearsreloaded.org:2086/live/polen/polen/98.m3u8
-#EXTINF:-1, Suluk ESPN 2 HD
-http://gearsreloaded.org:2086/live/polen/polen/99.m3u8
-#EXTINF:-1, Suluk ESPN CLASSICS 4K
-http://gearsreloaded.org:2086/live/polen/polen/103.m3u8
-#EXTINF:-1, Suluk ESPN DEPORTES 4K
-http://gearsreloaded.org:2086/live/polen/polen/3.m3u8
-#EXTINF:-1, Suluk ESPN NEWS 4K
-http://gearsreloaded.org:2086/live/polen/polen/102.m3u8
-#EXTINF:-1, Suluk ESPN U 4K
-http://gearsreloaded.org:2086/live/polen/polen/100.m3u8
-#EXTINF:-1, Suluk ESPN U HD
-http://gearsreloaded.org:2086/live/polen/polen/101.m3u8
-#EXTINF:-1, Suluk FLIX 4K
-http://gearsreloaded.org:2086/live/polen/polen/86.m3u8
-#EXTINF:-1, Suluk FOOD NETWORK 4K
-http://gearsreloaded.org:2086/live/polen/polen/178.m3u8
-#EXTINF:-1, Suluk FOX BUSINESS 4K
-http://gearsreloaded.org:2086/live/polen/polen/131.m3u8
-#EXTINF:-1, Suluk FOX DEPORTES 4K
-http://gearsreloaded.org:2086/live/polen/polen/132.m3u8
-#EXTINF:-1, Suluk FOX LA 4K
-http://gearsreloaded.org:2086/live/polen/polen/130.m3u8
-#EXTINF:-1, Suluk FOX NEWS 4K
-http://gearsreloaded.org:2086/live/polen/polen/107.m3u8
-#EXTINF:-1, Suluk FOX NY 4K
-http://gearsreloaded.org:2086/live/polen/polen/128.m3u8
-#EXTINF:-1, Suluk FOX PHILLY 4K
-http://gearsreloaded.org:2086/live/polen/polen/124.m3u8
-#EXTINF:-1, Suluk FOX SOCCER PLUS 4K
-http://gearsreloaded.org:2086/live/polen/polen/129.m3u8
-#EXTINF:-1, Suluk FOX SPORTS 1 4K
-http://gearsreloaded.org:2086/live/polen/polen/104.m3u8
-#EXTINF:-1, Suluk FOX SPORTS 2 4K
-http://gearsreloaded.org:2086/live/polen/polen/105.m3u8
-#EXTINF:-1, Suluk FOX SPORTS 2 HD
-http://gearsreloaded.org:2086/live/polen/polen/106.m3u8
-#EXTINF:-1, Suluk FOX SPORTS WEST 4K
-http://gearsreloaded.org:2086/live/polen/polen/127.m3u8
-#EXTINF:-1, Suluk FREEFORM 4K
-http://gearsreloaded.org:2086/live/polen/polen/214.m3u8
-#EXTINF:-1, Suluk FUSE 4K
-http://gearsreloaded.org:2086/live/polen/polen/92.m3u8
-#EXTINF:-1, Suluk FUSION 4K
-http://gearsreloaded.org:2086/live/polen/polen/85.m3u8
-#EXTINF:-1, Suluk FX 4K
-http://gearsreloaded.org:2086/live/polen/polen/200.m3u8
-#EXTINF:-1, Suluk FX MOVIES 4K
-http://gearsreloaded.org:2086/live/polen/polen/1.m3u8
-#EXTINF:-1, Suluk FXX 4K
-http://gearsreloaded.org:2086/live/polen/polen/215.m3u8
-#EXTINF:-1, Suluk FYI 4K
-http://gearsreloaded.org:2086/live/polen/polen/186.m3u8
-#EXTINF:-1, Suluk GOLF CHANNEL 4K
-http://gearsreloaded.org:2086/live/polen/polen/551.m3u8
-#EXTINF:-1, Suluk GREAT AMERICAN COUNTRY 4K
-http://gearsreloaded.org:2086/live/polen/polen/84.m3u8
-#EXTINF:-1, Suluk GSN 4K
-http://gearsreloaded.org:2086/live/polen/polen/206.m3u8
-#EXTINF:-1, Suluk HALLMARK 4K
-http://gearsreloaded.org:2086/live/polen/polen/169.m3u8
-#EXTINF:-1, Suluk HALLMARK MOVIES & MYSTERIES 4K
-http://gearsreloaded.org:2086/live/polen/polen/170.m3u8
-#EXTINF:-1, Suluk HBO 4K
-http://gearsreloaded.org:2086/live/polen/polen/261.m3u8
-#EXTINF:-1, Suluk HBO 2 4K
-http://gearsreloaded.org:2086/live/polen/polen/263.m3u8
-#EXTINF:-1, Suluk HBO COMEDY 4K
-http://gearsreloaded.org:2086/live/polen/polen/262.m3u8
-#EXTINF:-1, Suluk HBO FAMILY 4K
-http://gearsreloaded.org:2086/live/polen/polen/266.m3u8
-#EXTINF:-1, Suluk HBO LATINO 4K
-http://gearsreloaded.org:2086/live/polen/polen/267.m3u8
-#EXTINF:-1, Suluk HBO SIGNATURE 4K
-http://gearsreloaded.org:2086/live/polen/polen/264.m3u8
-#EXTINF:-1, Suluk HBO ZONE 4K
-http://gearsreloaded.org:2086/live/polen/polen/265.m3u8
-#EXTINF:-1, Suluk HGTV 4K
-http://gearsreloaded.org:2086/live/polen/polen/147.m3u8
-#EXTINF:-1, Suluk HGTV HD
-http://gearsreloaded.org:2086/live/polen/polen/148.m3u8
-#EXTINF:-1, Suluk HISTORY 4K
-http://gearsreloaded.org:2086/live/polen/polen/156.m3u8
-#EXTINF:-1, Suluk HLN 4K
-http://gearsreloaded.org:2086/live/polen/polen/244.m3u8
-#EXTINF:-1, Suluk ID 4K
-http://gearsreloaded.org:2086/live/polen/polen/161.m3u8
-#EXTINF:-1, Suluk IFC 4K
-http://gearsreloaded.org:2086/live/polen/polen/173.m3u8
-#EXTINF:-1, Suluk ION 4K
-http://gearsreloaded.org:2086/live/polen/polen/662.m3u8
-#EXTINF:-1, Suluk ION LIFE 4K
-http://gearsreloaded.org:2086/live/polen/polen/661.m3u8
-#EXTINF:-1, Suluk KTLA 4K
-http://gearsreloaded.org:2086/live/polen/polen/95.m3u8
-#EXTINF:-1, Suluk LIFETIME 4K
-http://gearsreloaded.org:2086/live/polen/polen/191.m3u8
-#EXTINF:-1, Suluk LMN 4K
-http://gearsreloaded.org:2086/live/polen/polen/192.m3u8
-#EXTINF:-1, Suluk LOGO 4K
-http://gearsreloaded.org:2086/live/polen/polen/252.m3u8
-#EXTINF:-1, Suluk MAV TV 4K
-http://gearsreloaded.org:2086/live/polen/polen/233.m3u8
-#EXTINF:-1, Suluk ME TV 4K
-http://gearsreloaded.org:2086/live/polen/polen/673.m3u8
-#EXTINF:-1, Suluk MGM 4K
-http://gearsreloaded.org:2086/live/polen/polen/83.m3u8
-#EXTINF:-1, Suluk MILITARY HISTORY 4K
-http://gearsreloaded.org:2086/live/polen/polen/197.m3u8
-#EXTINF:-1, Suluk MLB NETWORK 4K
-http://gearsreloaded.org:2086/live/polen/polen/114.m3u8
-#EXTINF:-1, Suluk MLB NETWORK HD
-http://gearsreloaded.org:2086/live/polen/polen/115.m3u8
-#EXTINF:-1, Suluk MOVIES! 4K
-http://gearsreloaded.org:2086/live/polen/polen/672.m3u8
-#EXTINF:-1, Suluk MSG 4K
-http://gearsreloaded.org:2086/live/polen/polen/246.m3u8
-#EXTINF:-1, Suluk MSNBC 4K
-http://gearsreloaded.org:2086/live/polen/polen/138.m3u8
-#EXTINF:-1, Suluk MTV 2 4K
-http://gearsreloaded.org:2086/live/polen/polen/165.m3u8
-#EXTINF:-1, Suluk MTV CLASSIC 4K
-http://gearsreloaded.org:2086/live/polen/polen/167.m3u8
-#EXTINF:-1, Suluk MTV CLASSIC
-http://gearsreloaded.org:2086/live/polen/polen/440.m3u8
-#EXTINF:-1, Suluk MTV LIVE 4K
-http://gearsreloaded.org:2086/live/polen/polen/164.m3u8
-#EXTINF:-1, Suluk MTV TR3S 4K
-http://gearsreloaded.org:2086/live/polen/polen/168.m3u8
-#EXTINF:-1, Suluk MTV U 4K
-http://gearsreloaded.org:2086/live/polen/polen/166.m3u8
-#EXTINF:-1, Suluk MY TV PHILLY 4K
-http://gearsreloaded.org:2086/live/polen/polen/238.m3u8
-#EXTINF:-1, Suluk NAT GEO WILD 4K
-http://gearsreloaded.org:2086/live/polen/polen/219.m3u8
-#EXTINF:-1, Suluk NATIONAL GEOGRAPHIC 4K
-http://gearsreloaded.org:2086/live/polen/polen/188.m3u8
-#EXTINF:-1, Suluk NBA TV 4K
-http://gearsreloaded.org:2086/live/polen/polen/112.m3u8
-#EXTINF:-1, Suluk NBA TV HD
-http://gearsreloaded.org:2086/live/polen/polen/113.m3u8
-#EXTINF:-1, Suluk NBC LA 4K
-http://gearsreloaded.org:2086/live/polen/polen/139.m3u8
-#EXTINF:-1, Suluk NBC NY 4K
-http://gearsreloaded.org:2086/live/polen/polen/142.m3u8
-#EXTINF:-1, Suluk NBC PHILLY 4K
-http://gearsreloaded.org:2086/live/polen/polen/140.m3u8
-#EXTINF:-1, Suluk NBC SPORTS NETWORK 4K
-http://gearsreloaded.org:2086/live/polen/polen/137.m3u8
-#EXTINF:-1, Suluk NBC UNIVERSO 4K
-http://gearsreloaded.org:2086/live/polen/polen/141.m3u8
-#EXTINF:-1, Suluk NFL NETWORK 4K
-http://gearsreloaded.org:2086/live/polen/polen/110.m3u8
-#EXTINF:-1, Suluk NFL NETWORK HD
-http://gearsreloaded.org:2086/live/polen/polen/111.m3u8
-#EXTINF:-1, Suluk NHL NETWORK 4K
-http://gearsreloaded.org:2086/live/polen/polen/218.m3u8
-#EXTINF:-1, Suluk NICK 2 4K
-http://gearsreloaded.org:2086/live/polen/polen/82.m3u8
-#EXTINF:-1, Suluk NICK JR 4K
-http://gearsreloaded.org:2086/live/polen/polen/154.m3u8
-#EXTINF:-1, Suluk NICK MUSIC 4K
-http://gearsreloaded.org:2086/live/polen/polen/81.m3u8
-#EXTINF:-1, Suluk NICKELODEON 4K
-http://gearsreloaded.org:2086/live/polen/polen/153.m3u8
-#EXTINF:-1, Suluk NICKTOONS 4K
-http://gearsreloaded.org:2086/live/polen/polen/221.m3u8
-#EXTINF:-1, Suluk ONE AMERICA NEWS 4K
-http://gearsreloaded.org:2086/live/polen/polen/90.m3u8
-#EXTINF:-1, Suluk OUTDOOR 4K
-http://gearsreloaded.org:2086/live/polen/polen/207.m3u8
-#EXTINF:-1, Suluk OVATION 4K
-http://gearsreloaded.org:2086/live/polen/polen/665.m3u8
-#EXTINF:-1, Suluk OWN 4K
-http://gearsreloaded.org:2086/live/polen/polen/208.m3u8
-#EXTINF:-1, Suluk OXYGEN 4K
-http://gearsreloaded.org:2086/live/polen/polen/251.m3u8
-#EXTINF:-1, Suluk PAC 12 ARIZONA 4K
-http://gearsreloaded.org:2086/live/polen/polen/552.m3u8
-#EXTINF:-1, Suluk PAC 12 BAY AREA 4K
-http://gearsreloaded.org:2086/live/polen/polen/553.m3u8
-#EXTINF:-1, Suluk PAC 12 LA 4K
-http://gearsreloaded.org:2086/live/polen/polen/554.m3u8
-#EXTINF:-1, Suluk PAC 12 MOUNTAIN 4K
-http://gearsreloaded.org:2086/live/polen/polen/555.m3u8
-#EXTINF:-1, Suluk PAC 12 NATIONAL 4K
-http://gearsreloaded.org:2086/live/polen/polen/556.m3u8
-#EXTINF:-1, Suluk PAC 12 OREGON 4K
-http://gearsreloaded.org:2086/live/polen/polen/557.m3u8
-#EXTINF:-1, Suluk PAC 12 WASHINGTON 4K
-http://gearsreloaded.org:2086/live/polen/polen/558.m3u8
-#EXTINF:-1, Suluk PBS 4K
-http://gearsreloaded.org:2086/live/polen/polen/660.m3u8
-#EXTINF:-1, Suluk PBS KIDS 4K
-http://gearsreloaded.org:2086/live/polen/polen/671.m3u8
-#EXTINF:-1, Suluk PIX 11 NY 4K
-http://gearsreloaded.org:2086/live/polen/polen/242.m3u8
-#EXTINF:-1, Suluk POP 4K
-http://gearsreloaded.org:2086/live/polen/polen/253.m3u8
-#EXTINF:-1, Suluk QUBO 4K
-http://gearsreloaded.org:2086/live/polen/polen/659.m3u8
-#EXTINF:-1, Suluk REELZ 4K
-http://gearsreloaded.org:2086/live/polen/polen/80.m3u8
-#EXTINF:-1, Suluk REVOLT 4K
-http://gearsreloaded.org:2086/live/polen/polen/204.m3u8
-#EXTINF:-1, Suluk SEC 4K
-http://gearsreloaded.org:2086/live/polen/polen/217.m3u8
-#EXTINF:-1, Suluk SHOWTIME 4K
-http://gearsreloaded.org:2086/live/polen/polen/256.m3u8
-#EXTINF:-1, Suluk SHOWTIME 2 4K
-http://gearsreloaded.org:2086/live/polen/polen/260.m3u8
-#EXTINF:-1, Suluk SHOWTIME BEYOND 4K
-http://gearsreloaded.org:2086/live/polen/polen/257.m3u8
-#EXTINF:-1, Suluk SHOWTIME EXTREME 4K
-http://gearsreloaded.org:2086/live/polen/polen/259.m3u8
-#EXTINF:-1, Suluk SHOWTIME SHOWCASE 4K
-http://gearsreloaded.org:2086/live/polen/polen/258.m3u8
-#EXTINF:-1, Suluk SHOWTIME WOMEN 4K
-http://gearsreloaded.org:2086/live/polen/polen/255.m3u8
-#EXTINF:-1, Suluk SMITHSONIAN 4K
-http://gearsreloaded.org:2086/live/polen/polen/198.m3u8
-#EXTINF:-1, Suluk SNY 4K
-http://gearsreloaded.org:2086/live/polen/polen/247.m3u8
-#EXTINF:-1, Suluk SPIKE 4K
-http://gearsreloaded.org:2086/live/polen/polen/174.m3u8
-#EXTINF:-1, Suluk SPORTSMAN 4K
-http://gearsreloaded.org:2086/live/polen/polen/240.m3u8
-#EXTINF:-1, Suluk SPORTSNET LA DODGERS 4K
-http://gearsreloaded.org:2086/live/polen/polen/144.m3u8
-#EXTINF:-1, Suluk SPORTSNET LA LAKERS 4K
-http://gearsreloaded.org:2086/live/polen/polen/143.m3u8
-#EXTINF:-1, Suluk SPROUT 4K
-http://gearsreloaded.org:2086/live/polen/polen/249.m3u8
-#EXTINF:-1, Suluk STARZ 4K
-http://gearsreloaded.org:2086/live/polen/polen/270.m3u8
-#EXTINF:-1, Suluk STARZ COMEDY 4K
-http://gearsreloaded.org:2086/live/polen/polen/278.m3u8
-#EXTINF:-1, Suluk STARZ ENCORE 4K
-http://gearsreloaded.org:2086/live/polen/polen/268.m3u8
-#EXTINF:-1, Suluk STARZ ENCORE WESTERNS 4K
-http://gearsreloaded.org:2086/live/polen/polen/269.m3u8
-#EXTINF:-1, Suluk STARZ IN BLACK 4K
-http://gearsreloaded.org:2086/live/polen/polen/279.m3u8
-#EXTINF:-1, Suluk STARZ KIDS 4K
-http://gearsreloaded.org:2086/live/polen/polen/277.m3u8
-#EXTINF:-1, Suluk SUNDANCE 4K
-http://gearsreloaded.org:2086/live/polen/polen/224.m3u8
-#EXTINF:-1, Suluk SYFY 4K
-http://gearsreloaded.org:2086/live/polen/polen/212.m3u8
-#EXTINF:-1, Suluk TBS 4K
-http://gearsreloaded.org:2086/live/polen/polen/175.m3u8
-#EXTINF:-1, Suluk TCM 4K
-http://gearsreloaded.org:2086/live/polen/polen/79.m3u8
-#EXTINF:-1, Suluk TEEN NICK 4K
-http://gearsreloaded.org:2086/live/polen/polen/254.m3u8
-#EXTINF:-1, Suluk TELEMUNDO 4K
-http://gearsreloaded.org:2086/live/polen/polen/196.m3u8
-#EXTINF:-1, Suluk TELEVISION DOMINICANA 4K
-http://gearsreloaded.org:2086/live/polen/polen/668.m3u8
-#EXTINF:-1, Suluk TENNIS 4K
-http://gearsreloaded.org:2086/live/polen/polen/194.m3u8
-#EXTINF:-1, Suluk THE COMCAST NETWORK 4K
-http://gearsreloaded.org:2086/live/polen/polen/670.m3u8
-#EXTINF:-1, Suluk THE WEATHER CHANNEL 4K
-http://gearsreloaded.org:2086/live/polen/polen/94.m3u8
-#EXTINF:-1, Suluk TLC 4K
-http://gearsreloaded.org:2086/live/polen/polen/159.m3u8
-#EXTINF:-1, Suluk TMC 4K
-http://gearsreloaded.org:2086/live/polen/polen/78.m3u8
-#EXTINF:-1, Suluk TMC EXTRA 4K
-http://gearsreloaded.org:2086/live/polen/polen/77.m3u8
-#EXTINF:-1, Suluk TNT 4K
-http://gearsreloaded.org:2086/live/polen/polen/179.m3u8
-#EXTINF:-1, Suluk TRAVEL CHANNEL 4K
-http://gearsreloaded.org:2086/live/polen/polen/187.m3u8
-#EXTINF:-1, Suluk TRU TV 4K
-http://gearsreloaded.org:2086/live/polen/polen/176.m3u8
-#EXTINF:-1, Suluk TV LAND 4K
-http://gearsreloaded.org:2086/live/polen/polen/213.m3u8
-#EXTINF:-1, Suluk TV ONE 4K
-http://gearsreloaded.org:2086/live/polen/polen/205.m3u8
-#EXTINF:-1, Suluk UNIMAS 4K
-http://gearsreloaded.org:2086/live/polen/polen/190.m3u8
-#EXTINF:-1, Suluk UNIVISION 4K
-http://gearsreloaded.org:2086/live/polen/polen/189.m3u8
-#EXTINF:-1, Suluk UNIVISION TDN 4K
-http://gearsreloaded.org:2086/live/polen/polen/232.m3u8
-#EXTINF:-1, Suluk UP 4K
-http://gearsreloaded.org:2086/live/polen/polen/74.m3u8
-#EXTINF:-1, Suluk USA NETWORK 4K
-http://gearsreloaded.org:2086/live/polen/polen/182.m3u8
-#EXTINF:-1, Suluk VELOCITY 4K
-http://gearsreloaded.org:2086/live/polen/polen/220.m3u8
-#EXTINF:-1, Suluk VH1 4K
-http://gearsreloaded.org:2086/live/polen/polen/155.m3u8
-#EXTINF:-1, Suluk VICELAND 4K
-http://gearsreloaded.org:2086/live/polen/polen/177.m3u8
-#EXTINF:-1, Suluk WAPA AMERICA 4K
-http://gearsreloaded.org:2086/live/polen/polen/243.m3u8
-#EXTINF:-1, Suluk WE TV 4K
-http://gearsreloaded.org:2086/live/polen/polen/211.m3u8
-#EXTINF:-1, Suluk WGN AMERICA 4K
-http://gearsreloaded.org:2086/live/polen/polen/245.m3u8
-#EXTINF:-1, Suluk WGN NEWS CHICAGO 4K
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:-1, Suluk WILLOW 4K
-http://gearsreloaded.org:2086/live/polen/polen/229.m3u8
-#EXTINF:-1, Suluk WILLOW HD
-http://gearsreloaded.org:2086/live/polen/polen/230.m3u8
-#EXTINF:-1, Suluk WWE 4K
-http://gearsreloaded.org:2086/live/polen/polen/119.m3u8
-#EXTINF:-1, Suluk WWE HD
-http://gearsreloaded.org:2086/live/polen/polen/120.m3u8
-#EXTINF:-1, Suluk YES NETWORK 4K
-http://gearsreloaded.org:2086/live/polen/polen/248.m3u8
-#EXTINF:-1, Suluk 5STAR
-http://gearsreloaded.org:2086/live/polen/polen/481.m3u8
-#EXTINF:-1, Suluk 90'S
-http://gearsreloaded.org:2086/live/polen/polen/534.m3u8
-#EXTINF:-1, Suluk ALIBI 4K
-http://gearsreloaded.org:2086/live/polen/polen/480.m3u8
-#EXTINF:-1, Suluk ALTERNATIVE
-http://gearsreloaded.org:2086/live/polen/polen/520.m3u8
-#EXTINF:-1, Suluk ANIMAL PLANET UK 4K
-http://gearsreloaded.org:2086/live/polen/polen/479.m3u8
-#EXTINF:-1, Suluk BBC 1 4K
-http://gearsreloaded.org:2086/live/polen/polen/478.m3u8
-#EXTINF:-1, Suluk BBC 2 4K
-http://gearsreloaded.org:2086/live/polen/polen/477.m3u8
-#EXTINF:-1, Suluk BBC 4 / CBEEBIES 4K
-http://gearsreloaded.org:2086/live/polen/polen/476.m3u8
-#EXTINF:-1, Suluk BBC NEWS 4K
-http://gearsreloaded.org:2086/live/polen/polen/475.m3u8
-#EXTINF:-1, Suluk BOXNATION
-http://gearsreloaded.org:2086/live/polen/polen/474.m3u8
-#EXTINF:-1, Suluk BRITISH HITS
-http://gearsreloaded.org:2086/live/polen/polen/519.m3u8
-#EXTINF:-1, Suluk BT SPORTS 1 4K
-http://gearsreloaded.org:2086/live/polen/polen/473.m3u8
-#EXTINF:-1, Suluk BT SPORTS 2 4K
-http://gearsreloaded.org:2086/live/polen/polen/472.m3u8
-#EXTINF:-1, Suluk BT SPORTS 3 4K
-http://gearsreloaded.org:2086/live/polen/polen/471.m3u8
-#EXTINF:-1, Suluk BT SPORTS ESPN 4K
-http://gearsreloaded.org:2086/live/polen/polen/470.m3u8
-#EXTINF:-1, Suluk CARTOONITO
-http://gearsreloaded.org:2086/live/polen/polen/469.m3u8
-#EXTINF:-1, Suluk CASH MONEY RECORDS
-http://gearsreloaded.org:2086/live/polen/polen/544.m3u8
-#EXTINF:-1, Suluk CBC CA 4K
-http://gearsreloaded.org:2086/live/polen/polen/502.m3u8
-#EXTINF:-1, Suluk CBS ACTION
-http://gearsreloaded.org:2086/live/polen/polen/468.m3u8
-#EXTINF:-1, Suluk CBS REALITY
-http://gearsreloaded.org:2086/live/polen/polen/467.m3u8
-#EXTINF:-1, Suluk CHANNEL 4 4K
-http://gearsreloaded.org:2086/live/polen/polen/466.m3u8
-#EXTINF:-1, Suluk CHANNEL 5 4K
-http://gearsreloaded.org:2086/live/polen/polen/465.m3u8
-#EXTINF:-1, Suluk CITY 4K
-http://gearsreloaded.org:2086/live/polen/polen/501.m3u8
-#EXTINF:-1, Suluk COMEDY CENTRAL UK 4K
-http://gearsreloaded.org:2086/live/polen/polen/464.m3u8
-#EXTINF:-1, Suluk CP 24 4K
-http://gearsreloaded.org:2086/live/polen/polen/500.m3u8
-#EXTINF:-1, Suluk CTV 4K
-http://gearsreloaded.org:2086/live/polen/polen/499.m3u8
-#EXTINF:-1, Suluk DANCE/EDM
-http://gearsreloaded.org:2086/live/polen/polen/521.m3u8
-#EXTINF:-1, Suluk DAVE 4K
-http://gearsreloaded.org:2086/live/polen/polen/463.m3u8
-#EXTINF:-1, Suluk DISCOVERY HISTORY
-http://gearsreloaded.org:2086/live/polen/polen/462.m3u8
-#EXTINF:-1, Suluk DISCOVERY SCIENCE UK
-http://gearsreloaded.org:2086/live/polen/polen/461.m3u8
-#EXTINF:-1, Suluk DISCOVERY TURBO
-http://gearsreloaded.org:2086/live/polen/polen/460.m3u8
-#EXTINF:-1, Suluk DISCOVERY UK 4K
-http://gearsreloaded.org:2086/live/polen/polen/459.m3u8
-#EXTINF:-1, Suluk DRAMA
-http://gearsreloaded.org:2086/live/polen/polen/458.m3u8
-#EXTINF:-1, Suluk E4 4K
-http://gearsreloaded.org:2086/live/polen/polen/457.m3u8
-#EXTINF:-1, Suluk EDEN 4K
-http://gearsreloaded.org:2086/live/polen/polen/456.m3u8
-#EXTINF:-1, Suluk EURO SPORTS 1 4K
-http://gearsreloaded.org:2086/live/polen/polen/455.m3u8
-#EXTINF:-1, Suluk EURO SPORTS 2 4K
-http://gearsreloaded.org:2086/live/polen/polen/454.m3u8
-#EXTINF:-1, Suluk FILM 4 4K
-http://gearsreloaded.org:2086/live/polen/polen/453.m3u8
-#EXTINF:-1, Suluk FOX UK 4K
-http://gearsreloaded.org:2086/live/polen/polen/452.m3u8
-#EXTINF:-1, Suluk GLOBAL 4K
-http://gearsreloaded.org:2086/live/polen/polen/498.m3u8
-#EXTINF:-1, Suluk GOLD
-http://gearsreloaded.org:2086/live/polen/polen/451.m3u8
-#EXTINF:-1, Suluk HIP HOP & R&B
-http://gearsreloaded.org:2086/live/polen/polen/522.m3u8
-#EXTINF:-1, Suluk HIT LIST
-http://gearsreloaded.org:2086/live/polen/polen/523.m3u8
-#EXTINF:-1, Suluk HORROR CHANNEL
-http://gearsreloaded.org:2086/live/polen/polen/450.m3u8
-#EXTINF:-1, Suluk ID UK
-http://gearsreloaded.org:2086/live/polen/polen/449.m3u8
-#EXTINF:-1, Suluk INDIE
-http://gearsreloaded.org:2086/live/polen/polen/524.m3u8
-#EXTINF:-1, Suluk ITV 1 4K
-http://gearsreloaded.org:2086/live/polen/polen/448.m3u8
-#EXTINF:-1, Suluk ITV 2 4K
-http://gearsreloaded.org:2086/live/polen/polen/447.m3u8
-#EXTINF:-1, Suluk ITV 3 4K
-http://gearsreloaded.org:2086/live/polen/polen/446.m3u8
-#EXTINF:-1, Suluk ITV 4 4K
-http://gearsreloaded.org:2086/live/polen/polen/445.m3u8
-#EXTINF:-1, Suluk ITV BE 4K
-http://gearsreloaded.org:2086/live/polen/polen/444.m3u8
-#EXTINF:-1, Suluk KIDS ONLY
-http://gearsreloaded.org:2086/live/polen/polen/541.m3u8
-#EXTINF:-1, Suluk MC PLAY
-http://gearsreloaded.org:2086/live/polen/polen/543.m3u8
-#EXTINF:-1, Suluk METAL
-http://gearsreloaded.org:2086/live/polen/polen/525.m3u8
-#EXTINF:-1, Suluk MEXICANA
-http://gearsreloaded.org:2086/live/polen/polen/537.m3u8
-#EXTINF:-1, Suluk MIO Stadium 102 4K
-http://gearsreloaded.org:2086/live/polen/polen/508.m3u8
-#EXTINF:-1, Suluk MIO Stadium 103 4K
-http://gearsreloaded.org:2086/live/polen/polen/507.m3u8
-#EXTINF:-1, Suluk MTV 4K
-http://gearsreloaded.org:2086/live/polen/polen/163.m3u8
-#EXTINF:-1, Suluk MIO Stadium 104 4K
-http://gearsreloaded.org:2086/live/polen/polen/506.m3u8
-#EXTINF:-1, Suluk MIO Stadium 105 4K
-http://gearsreloaded.org:2086/live/polen/polen/505.m3u8
-#EXTINF:-1, Suluk MIO Stadium 106 4K
-http://gearsreloaded.org:2086/live/polen/polen/504.m3u8
-#EXTINF:-1, Suluk MIO Stadium 107 4K
-http://gearsreloaded.org:2086/live/polen/polen/503.m3u8
-#EXTINF:-1, Suluk MORE 4 4K
-http://gearsreloaded.org:2086/live/polen/polen/443.m3u8
-#EXTINF:-1, Suluk MOVIES 24
-http://gearsreloaded.org:2086/live/polen/polen/442.m3u8
-#EXTINF:-1, Suluk MOVIES 4 MEN
-http://gearsreloaded.org:2086/live/polen/polen/441.m3u8
-#EXTINF:-1, Suluk MTV UK 4K
-http://gearsreloaded.org:2086/live/polen/polen/439.m3u8
-#EXTINF:-1, Suluk MUSICA URBANA
-http://gearsreloaded.org:2086/live/polen/polen/538.m3u8
-#EXTINF:-1, Suluk NAT GEO UK 4K
-http://gearsreloaded.org:2086/live/polen/polen/438.m3u8
-#EXTINF:-1, Suluk NAT GEO WILD UK 4K
-http://gearsreloaded.org:2086/live/polen/polen/437.m3u8
-#EXTINF:-1, Suluk NBC EXTRA TIME 1 4K
-http://gearsreloaded.org:2086/live/polen/polen/515.m3u8
-#EXTINF:-1, Suluk NBC EXTRA TIME 2 4K
-http://gearsreloaded.org:2086/live/polen/polen/514.m3u8
-#EXTINF:-1, Suluk NBC EXTRA TIME 3 4K
-http://gearsreloaded.org:2086/live/polen/polen/513.m3u8
-#EXTINF:-1, Suluk NBC EXTRA TIME 4 4K
-http://gearsreloaded.org:2086/live/polen/polen/512.m3u8
-#EXTINF:-1, Suluk NBC EXTRA TIME 5 4K
-http://gearsreloaded.org:2086/live/polen/polen/511.m3u8
-#EXTINF:-1, Suluk NBC EXTRA TIME 6 4K
-http://gearsreloaded.org:2086/live/polen/polen/510.m3u8
-#EXTINF:-1, Suluk NBC EXTRA TIME 7 4K
-http://gearsreloaded.org:2086/live/polen/polen/509.m3u8
-#EXTINF:-1, Suluk NICK JR TOO
-http://gearsreloaded.org:2086/live/polen/polen/436.m3u8
-#EXTINF:-1, Suluk NICK JR UK
-http://gearsreloaded.org:2086/live/polen/polen/435.m3u8
-#EXTINF:-1, Suluk PICK TV
-http://gearsreloaded.org:2086/live/polen/polen/434.m3u8
-#EXTINF:-1, Suluk POP & COUNTRY
-http://gearsreloaded.org:2086/live/polen/polen/526.m3u8
-#EXTINF:-1, Suluk POP HITS
-http://gearsreloaded.org:2086/live/polen/polen/527.m3u8
-#EXTINF:-1, Suluk POP LATINO
-http://gearsreloaded.org:2086/live/polen/polen/539.m3u8
-#EXTINF:-1, Suluk PREMIER SPORTS 4K
-http://gearsreloaded.org:2086/live/polen/polen/433.m3u8
-#EXTINF:-1, Suluk QUEST
-http://gearsreloaded.org:2086/live/polen/polen/432.m3u8
-#EXTINF:-1, Suluk R&B SOUL
-http://gearsreloaded.org:2086/live/polen/polen/528.m3u8
-#EXTINF:-1, Suluk RAP 00'S
-http://gearsreloaded.org:2086/live/polen/polen/530.m3u8
-#EXTINF:-1, Suluk RAP
-http://gearsreloaded.org:2086/live/polen/polen/529.m3u8
-#EXTINF:-1, Suluk REALLY
-http://gearsreloaded.org:2086/live/polen/polen/431.m3u8
-#EXTINF:-1, Suluk ROCK
-http://gearsreloaded.org:2086/live/polen/polen/531.m3u8
-#EXTINF:-1, Suluk SHOWCASE 4K
-http://gearsreloaded.org:2086/live/polen/polen/497.m3u8
-#EXTINF:-1, Suluk SKY 1 4K
-http://gearsreloaded.org:2086/live/polen/polen/430.m3u8
-#EXTINF:-1, Suluk SKY ATLANTIC
-http://gearsreloaded.org:2086/live/polen/polen/429.m3u8
-#EXTINF:-1, Suluk SKY LIVING 4K
-http://gearsreloaded.org:2086/live/polen/polen/428.m3u8
-#EXTINF:-1, Suluk SKY MOVIES ACTION 4K
-http://gearsreloaded.org:2086/live/polen/polen/409.m3u8
-#EXTINF:-1, Suluk SKY MOVIES COMEDY 4K
-http://gearsreloaded.org:2086/live/polen/polen/408.m3u8
-#EXTINF:-1, Suluk SKY MOVIES DISNEY 4K
-http://gearsreloaded.org:2086/live/polen/polen/407.m3u8
-#EXTINF:-1, Suluk SKY MOVIES DRAMA & ROMANCE 4K
-http://gearsreloaded.org:2086/live/polen/polen/406.m3u8
-#EXTINF:-1, Suluk SKY MOVIES FAMILY 4K
-http://gearsreloaded.org:2086/live/polen/polen/405.m3u8
-#EXTINF:-1, Suluk SKY MOVIES GREATS 4K
-http://gearsreloaded.org:2086/live/polen/polen/404.m3u8
-#EXTINF:-1, Suluk SKY MOVIES PREMIER 4K
-http://gearsreloaded.org:2086/live/polen/polen/402.m3u8
-#EXTINF:-1, Suluk SKY MOVIES SCI-FI/HORROR 4K
-http://gearsreloaded.org:2086/live/polen/polen/401.m3u8
-#EXTINF:-1, Suluk SKY MOVIES SELECT 4K
-http://gearsreloaded.org:2086/live/polen/polen/400.m3u8
-#EXTINF:-1, Suluk SKY MOVIES SHOWCASE 4K
-http://gearsreloaded.org:2086/live/polen/polen/403.m3u8
-#EXTINF:-1, Suluk SKY MOVIES THRILLER 4K
-http://gearsreloaded.org:2086/live/polen/polen/399.m3u8
-#EXTINF:-1, Suluk SKY SPORTS BOX OFFICE PPV
-http://gearsreloaded.org:2086/live/polen/polen/422.m3u8
-#EXTINF:-1, Suluk SKY SPORTS F1 4K
-http://gearsreloaded.org:2086/live/polen/polen/421.m3u8
-#EXTINF:-1, Suluk SKY SPORTS MIX 4K
-http://gearsreloaded.org:2086/live/polen/polen/420.m3u8
-#EXTINF:-1, Suluk SKY SPORTS NEWS 4K
-http://gearsreloaded.org:2086/live/polen/polen/419.m3u8
-#EXTINF:-1, Suluk SLICE 4K
-http://gearsreloaded.org:2086/live/polen/polen/496.m3u8
-#EXTINF:-1, Suluk SPIKE UK
-http://gearsreloaded.org:2086/live/polen/polen/418.m3u8
-#EXTINF:-1, Suluk SPORTS NET 360 4K
-http://gearsreloaded.org:2086/live/polen/polen/495.m3u8
-#EXTINF:-1, Suluk SPORTS NET EAST 4K
-http://gearsreloaded.org:2086/live/polen/polen/494.m3u8
-#EXTINF:-1, Suluk SPORTS NET ONE 4K
-http://gearsreloaded.org:2086/live/polen/polen/493.m3u8
-#EXTINF:-1, Suluk SPORTS NET ONTARIO 4K
-http://gearsreloaded.org:2086/live/polen/polen/492.m3u8
-#EXTINF:-1, Suluk SPORTS NET PACIFIC 4K
-http://gearsreloaded.org:2086/live/polen/polen/491.m3u8
-#EXTINF:-1, Suluk SPORTS NET WEST 4K
-http://gearsreloaded.org:2086/live/polen/polen/490.m3u8
-#EXTINF:-1, Suluk SPORTS NET WORLD 4K
-http://gearsreloaded.org:2086/live/polen/polen/489.m3u8
-#EXTINF:-1, Suluk STAR PLUS
-http://gearsreloaded.org:2086/live/polen/polen/417.m3u8
-#EXTINF:-1, Suluk Sky Sports Action 4K
-http://gearsreloaded.org:2086/live/polen/polen/425.m3u8
-#EXTINF:-1, Suluk Sky Sports Cricket 4K
-http://gearsreloaded.org:2086/live/polen/polen/426.m3u8
-#EXTINF:-1, Suluk Sky Sports Golf 4K
-http://gearsreloaded.org:2086/live/polen/polen/424.m3u8
-#EXTINF:-1, Suluk Sky Sports Main Event 4K
-http://gearsreloaded.org:2086/live/polen/polen/427.m3u8
-#EXTINF:-1, Suluk Sky Sports Premier League 4K
-http://gearsreloaded.org:2086/live/polen/polen/423.m3u8
-#EXTINF:-1, Suluk TEEN BEATS
-http://gearsreloaded.org:2086/live/polen/polen/532.m3u8
-#EXTINF:-1, Suluk THROWBACK JAMS
-http://gearsreloaded.org:2086/live/polen/polen/535.m3u8
-#EXTINF:-1, Suluk TODAY'S COUNTRY
-http://gearsreloaded.org:2086/live/polen/polen/533.m3u8
-#EXTINF:-1, Suluk TODDLER TUNES
-http://gearsreloaded.org:2086/live/polen/polen/542.m3u8
-#EXTINF:-1, Suluk TROPICALES
-http://gearsreloaded.org:2086/live/polen/polen/540.m3u8
-#EXTINF:-1, Suluk TRUE CRIME
-http://gearsreloaded.org:2086/live/polen/polen/416.m3u8
-#EXTINF:-1, Suluk TRUE ENTERTAINMENT
-http://gearsreloaded.org:2086/live/polen/polen/415.m3u8
-#EXTINF:-1, Suluk TRUE MOVIES 1
-http://gearsreloaded.org:2086/live/polen/polen/414.m3u8
-#EXTINF:-1, Suluk TRUE MOVIES 2
-http://gearsreloaded.org:2086/live/polen/polen/413.m3u8
-#EXTINF:-1, Suluk TSN 1 4K
-http://gearsreloaded.org:2086/live/polen/polen/488.m3u8
-#EXTINF:-1, Suluk TSN 2 4K
-http://gearsreloaded.org:2086/live/polen/polen/487.m3u8
-#EXTINF:-1, Suluk TSN 3 4K
-http://gearsreloaded.org:2086/live/polen/polen/486.m3u8
-#EXTINF:-1, Suluk TSN 4 4K
-http://gearsreloaded.org:2086/live/polen/polen/485.m3u8
-#EXTINF:-1, Suluk TSN 5 4K
-http://gearsreloaded.org:2086/live/polen/polen/484.m3u8
-#EXTINF:-1, Suluk UNIVERSAL UK 4K
-http://gearsreloaded.org:2086/live/polen/polen/412.m3u8
-#EXTINF:-1, Suluk W 4K
-http://gearsreloaded.org:2086/live/polen/polen/411.m3u8
-#EXTINF:-1, Suluk WORLD 4K
-http://gearsreloaded.org:2086/live/polen/polen/483.m3u8
-#EXTINF:-1, Suluk Y2K
-http://gearsreloaded.org:2086/live/polen/polen/536.m3u8
-#EXTINF:-1, Suluk YESTERDAY
-http://gearsreloaded.org:2086/live/polen/polen/410.m3u8
-#EXTINF:-1, Suluk 4SEVEN
-http://gearsreloaded.org:2086/live/polen/polen/482.m3u8
-#EXTINF:-1, Suluk Jasmin TV HD
-http://gearsreloaded.org:2086/live/polen/polen/65.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gJ042W60/IPTV1.png" group-title="WELCOME️♥",SULUK INTRO
+http://www.dropbox.com/s/85cv9jpn14qwwi7/Intro%20IPTV.mp4?dl=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gJ042W60/IPTV1.png" group-title="WELCOME️♥",SULUK ANTHEM
+https://www.dropbox.com/s/mm43ay1v9avek25/IPTV.mp4?dl=1
+
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",5STAR
+http://gorilladick4.us:2086/live/4839/4839/1056.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",4SEVEN
+http://gorilladick4.us:2086/live/4839/4839/1070.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",ALIBI
+http://gorilladick4.us:2086/live/4839/4839/1071.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",***PPV EVENTS WILL APPEAR HERE WHEN LIVE***
+http://gorilladick4.us:2086/live/4839/4839/1842.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",CBS ACTION
+http://gorilladick4.us:2086/live/4839/4839/1069.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",CHANNEL 5
+http://gorilladick4.us:2086/live/4839/4839/1047.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",BBC NEWS
+http://gorilladick4.us:2086/live/4839/4839/1040.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",BBC 2
+http://gorilladick4.us:2086/live/4839/4839/1038.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",BBC 1
+http://gorilladick4.us:2086/live/4839/4839/1037.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",CARTOONITO
+http://gorilladick4.us:2086/live/4839/4839/1036.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",CINEMAX
+http://gorilladick4.us:2086/live/4839/4839/414.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",CINEMAX 5STAR MAX [EXCLUSIVE]
+http://gorilladick4.us:2086/live/4839/4839/1695.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",CHANNEL 4
+http://gorilladick4.us:2086/live/4839/4839/1046.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",CBS REALITY
+http://gorilladick4.us:2086/live/4839/4839/1059.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",BT SPORTS 3
+http://gorilladick4.us:2086/live/4839/4839/1007.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",BT SPORTS 2
+http://gorilladick4.us:2086/live/4839/4839/1006.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",BT SPORTS 1
+http://gorilladick4.us:2086/live/4839/4839/1005.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",BOXNATION
+http://gorilladick4.us:2086/live/4839/4839/1009.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",BBC 4 / CBEEBIES
+http://gorilladick4.us:2086/live/4839/4839/1039.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",ANIMAL PLANET UK
+http://gorilladick4.us:2086/live/4839/4839/1079.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",BT SPORTS ESPN
+http://gorilladick4.us:2086/live/4839/4839/1008.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",THE WEATHER CHANNEL EAST COAST
+http://gorilladick4.us:2086/live/4839/4839/2145.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",NESN
+http://gorilladick4.us:2086/live/4839/4839/1972.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥", *************NFL SUNDAY TICKET 11/19/2018*************
+http://gorilladick4.us:2086/live/4839/4839/1942.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",ABC ATLANTA
+http://gorilladick4.us:2086/live/4839/4839/1984.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",ABC BALTIMORE
+http://gorilladick4.us:2086/live/4839/4839/1997.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",ABC BOSTON
+http://gorilladick4.us:2086/live/4839/4839/1987.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",ABC CHARLOTTE
+http://gorilladick4.us:2086/live/4839/4839/1996.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",COWBOY TV
+http://gorilladick4.us:2086/live/4839/4839/1938.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",AMERICAN HEROES CHANNEL
+http://gorilladick4.us:2086/live/4839/4839/545.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",ENCORE SUSPENSE[COLOR white] 1080  
+http://gorilladick4.us:2086/live/4839/4839/1832.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",TNT
+http://gorilladick4.us:2086/live/4839/4839/1865.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",UP
+http://gorilladick4.us:2086/live/4839/4839/1739.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",TMC
+http://gorilladick4.us:2086/live/4839/4839/1735.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",TMC EXTRA
+http://gorilladick4.us:2086/live/4839/4839/1736.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",THE COMCAST NETWORK
+http://gorilladick4.us:2086/live/4839/4839/1826.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",TELEVISION DOMINICANA
+http://gorilladick4.us:2086/live/4839/4839/1828.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",TBS
+http://gorilladick4.us:2086/live/4839/4839/1904.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",SPORTSNET LA DODGERS
+http://gorilladick4.us:2086/live/4839/4839/1844.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",REELZ
+http://gorilladick4.us:2086/live/4839/4839/1733.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",QUBO
+http://gorilladick4.us:2086/live/4839/4839/1837.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",PBS
+http://gorilladick4.us:2086/live/4839/4839/1836.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",PBS KIDS
+http://gorilladick4.us:2086/live/4839/4839/1839.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",OVATION
+http://gorilladick4.us:2086/live/4839/4839/1831.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",MY13 LA
+http://gorilladick4.us:2086/live/4839/4839/1917.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",MOVIES!
+http://gorilladick4.us:2086/live/4839/4839/1838.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",ME TV
+http://gorilladick4.us:2086/live/4839/4839/1843.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",ION
+http://gorilladick4.us:2086/live/4839/4839/1834.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",ION LIFE
+http://gorilladick4.us:2086/live/4839/4839/1835.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",FOX SPORTS PRIME TICKET
+http://gorilladick4.us:2086/live/4839/4839/1866.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",CMT MUSIC
+http://gorilladick4.us:2086/live/4839/4839/1830.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",AZTECA
+http://gorilladick4.us:2086/live/4839/4839/1827.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",ASPIRE
+http://gorilladick4.us:2086/live/4839/4839/1829.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",AMC
+http://gorilladick4.us:2086/live/4839/4839/1862.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",CINEMAX OUTERMAX[COLOR white] 1080  
+http://gorilladick4.us:2086/live/4839/4839/1833.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",SHOWCASE
+http://gorilladick4.us:2086/live/4839/4839/1085.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",TCM
+http://gorilladick4.us:2086/live/4839/4839/1734.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",NICK MUSIC
+http://gorilladick4.us:2086/live/4839/4839/1732.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",NICK 2
+http://gorilladick4.us:2086/live/4839/4839/1731.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",MGM
+http://gorilladick4.us:2086/live/4839/4839/1730.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",HGTV
+http://gorilladick4.us:2086/live/4839/4839/1672.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",HERE TV
+http://gorilladick4.us:2086/live/4839/4839/1779.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",GREAT AMERICAN COUNTRY
+http://gorilladick4.us:2086/live/4839/4839/1729.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",FUSION
+http://gorilladick4.us:2086/live/4839/4839/1728.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",FLIX
+http://gorilladick4.us:2086/live/4839/4839/1727.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",COZI TV
+http://gorilladick4.us:2086/live/4839/4839/1599.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",COMEDY TV
+http://gorilladick4.us:2086/live/4839/4839/1726.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",CARS TV
+http://gorilladick4.us:2086/live/4839/4839/1725.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",BUZZR
+http://gorilladick4.us:2086/live/4839/4839/1559.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",BRAVO
+http://gorilladick4.us:2086/live/4839/4839/1673.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",BABY FIRST
+http://gorilladick4.us:2086/live/4839/4839/1724.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",WILLOW
+http://gorilladick4.us:2086/live/4839/4839/1676.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",WILLOW
+http://gorilladick4.us:2086/live/4839/4839/1677.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",MTV LIVE
+http://gorilladick4.us:2086/live/4839/4839/519.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",NBC UNIVERSO
+http://gorilladick4.us:2086/live/4839/4839/1553.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",ANTENNA TV
+http://gorilladick4.us:2086/live/4839/4839/1597.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",SKY SPORTS BOX OFFICE PPV
+http://gorilladick4.us:2086/live/4839/4839/1004.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",NICKTOONS
+http://gorilladick4.us:2086/live/4839/4839/353.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",NICKELODEON
+http://gorilladick4.us:2086/live/4839/4839/423.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",NICK JR.
+http://gorilladick4.us:2086/live/4839/4839/395.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",NBCSPORTS BOSTON
+http://gorilladick4.us:2086/live/4839/4839/2152.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",NBCSPORTS BOSTON
+http://gorilladick4.us:2086/live/4839/4839/2153.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",NBCSPORTS CALIFORNIA
+http://gorilladick4.us:2086/live/4839/4839/2150.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",NBCSPORTS CALIFORNIA
+http://gorilladick4.us:2086/live/4839/4839/2151.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",NBCSPORTS CHICAGO
+http://gorilladick4.us:2086/live/4839/4839/2148.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",NBCSPORTS CHICAGO
+http://gorilladick4.us:2086/live/4839/4839/2149.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",NBCSPORTS NORTHWEST
+http://gorilladick4.us:2086/live/4839/4839/2154.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",NBC SPORTS NETWORK
+http://gorilladick4.us:2086/live/4839/4839/367.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",NBCSPORTS NORTHWEST
+http://gorilladick4.us:2086/live/4839/4839/2155.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",NBCSPORTS WASHINGTON
+http://gorilladick4.us:2086/live/4839/4839/2157.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",NBCSPORTS WASHINGTON
+http://gorilladick4.us:2086/live/4839/4839/2156.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",NBC PHILLY 1080
+http://gorilladick4.us:2086/live/4839/4839/1594.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",NBC NY
+http://gorilladick4.us:2086/live/4839/4839/1551.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",NBC LA
+http://gorilladick4.us:2086/live/4839/4839/1639.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",NBA TV
+http://gorilladick4.us:2086/live/4839/4839/1669.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",NBA TV
+http://gorilladick4.us:2086/live/4839/4839/403.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",NATIONAL GEOGRAPHIC
+http://gorilladick4.us:2086/live/4839/4839/537.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",NAT GEO WILD
+http://gorilladick4.us:2086/live/4839/4839/358.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",MY TV PHILLY
+http://gorilladick4.us:2086/live/4839/4839/1596.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",MTV
+http://gorilladick4.us:2086/live/4839/4839/422.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",MTV U
+http://gorilladick4.us:2086/live/4839/4839/1692.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",MTV TR3S
+http://gorilladick4.us:2086/live/4839/4839/1678.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",MTV CLASSIC
+http://gorilladick4.us:2086/live/4839/4839/1690.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",MTV 2
+http://gorilladick4.us:2086/live/4839/4839/376.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",MSNBC
+http://gorilladick4.us:2086/live/4839/4839/354.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",MSG 
+http://gorilladick4.us:2086/live/4839/4839/1547.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",MLB NETWORK
+http://gorilladick4.us:2086/live/4839/4839/1670.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",MILITARY HISTORY
+http://gorilladick4.us:2086/live/4839/4839/480.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",MAV TV
+http://gorilladick4.us:2086/live/4839/4839/1664.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",LOGO
+http://gorilladick4.us:2086/live/4839/4839/1506.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",LIFETIME
+http://gorilladick4.us:2086/live/4839/4839/533.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",LIFETIME MOVIE NETWORK
+http://gorilladick4.us:2086/live/4839/4839/532.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",KTLA 1080
+http://gorilladick4.us:2086/live/4839/4839/1701.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",INVESTIGATION DISCOVERY
+http://gorilladick4.us:2086/live/4839/4839/407.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",IFC
+http://gorilladick4.us:2086/live/4839/4839/540.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",HLN 
+http://gorilladick4.us:2086/live/4839/4839/1554.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",HISTORY
+http://gorilladick4.us:2086/live/4839/4839/425.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",HGTV
+http://gorilladick4.us:2086/live/4839/4839/412.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",HBO SIGNATURE
+http://gorilladick4.us:2086/live/4839/4839/346.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",HBO FAMILY
+http://gorilladick4.us:2086/live/4839/4839/341.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",HALLMARK
+http://gorilladick4.us:2086/live/4839/4839/544.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",HALLMARK DRAMA (HD)
+http://gorilladick4.us:2086/live/4839/4839/2166.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",HALLMARK DRAMA (HQ)
+http://gorilladick4.us:2086/live/4839/4839/2167.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",HALLMARK MOVIES & MYSTERIES
+http://gorilladick4.us:2086/live/4839/4839/431.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",GSN
+http://gorilladick4.us:2086/live/4839/4839/398.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",GOLF CHANNEL
+http://gorilladick4.us:2086/live/4839/4839/448.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",FYI
+http://gorilladick4.us:2086/live/4839/4839/539.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",FREEFORM
+http://gorilladick4.us:2086/live/4839/4839/373.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",FOX SPORTS WEST
+http://gorilladick4.us:2086/live/4839/4839/1633.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",FOX SPORTS 2
+http://gorilladick4.us:2086/live/4839/4839/1542.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",FOX SPORTS 2
+http://gorilladick4.us:2086/live/4839/4839/384.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",FOX SPORTS 1
+http://gorilladick4.us:2086/live/4839/4839/541.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",FOX SOCCER PLUS
+http://gorilladick4.us:2086/live/4839/4839/1502.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",FOX PHILLY
+http://gorilladick4.us:2086/live/4839/4839/401.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",FOX NY
+http://gorilladick4.us:2086/live/4839/4839/1552.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",FOX NEWS
+http://gorilladick4.us:2086/live/4839/4839/361.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",FOX LA
+http://gorilladick4.us:2086/live/4839/4839/1637.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",FOX DEPORTES
+http://gorilladick4.us:2086/live/4839/4839/1642.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",FOX BUSINESS
+http://gorilladick4.us:2086/live/4839/4839/518.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",FOOD NETWORK
+http://gorilladick4.us:2086/live/4839/4839/438.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",ESPN [COLOR white]1080
+http://gorilladick4.us:2086/live/4839/4839/468.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",ESPN [COLOR white]720
+http://gorilladick4.us:2086/live/4839/4839/477.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",ESPN 2
+http://gorilladick4.us:2086/live/4839/4839/478.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",ESPN 2
+http://gorilladick4.us:2086/live/4839/4839/469.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",ESPN CLASSICS
+http://gorilladick4.us:2086/live/4839/4839/1509.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",ESPN LONGHORN NETWORK
+http://gorilladick4.us:2086/live/4839/4839/1940.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",ESPN NEWS
+http://gorilladick4.us:2086/live/4839/4839/1113.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",ESPN U
+http://gorilladick4.us:2086/live/4839/4839/470.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",ESPN U
+http://gorilladick4.us:2086/live/4839/4839/479.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",ESPN DEPORTES
+http://gorilladick4.us:2086/live/4839/4839/1641.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",EPIX
+http://gorilladick4.us:2086/live/4839/4839/366.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",EPIX 2
+http://gorilladick4.us:2086/live/4839/4839/349.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",EL REY NETWORK
+http://gorilladick4.us:2086/live/4839/4839/432.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",E!
+http://gorilladick4.us:2086/live/4839/4839/381.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",DIY
+http://gorilladick4.us:2086/live/4839/4839/434.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",DISNEY
+http://gorilladick4.us:2086/live/4839/4839/410.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",DISNEY XD
+http://gorilladick4.us:2086/live/4839/4839/520.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",DISNEY JR.
+http://gorilladick4.us:2086/live/4839/4839/374.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",DISCOVERY
+http://gorilladick4.us:2086/live/4839/4839/402.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",DISCOVERY SCIENCE
+http://gorilladick4.us:2086/live/4839/4839/465.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",DISCOVERY LIFE
+http://gorilladick4.us:2086/live/4839/4839/1644.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",DISCOVERY FAMILY
+http://gorilladick4.us:2086/live/4839/4839/385.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",DESTINATION AMERICA
+http://gorilladick4.us:2086/live/4839/4839/411.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",CW PHILLY 
+http://gorilladick4.us:2086/live/4839/4839/1592.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",CRIME AND INVESTIGATION
+http://gorilladick4.us:2086/live/4839/4839/516.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",COOKING CHANNEL
+http://gorilladick4.us:2086/live/4839/4839/932.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",COMEDY CENTRAL
+http://gorilladick4.us:2086/live/4839/4839/436.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",COMCAST SPORTSNET
+http://gorilladick4.us:2086/live/4839/4839/1562.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",COMCAST SPORTSNET
+http://gorilladick4.us:2086/live/4839/4839/483.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",CNN
+http://gorilladick4.us:2086/live/4839/4839/1563.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",CNN
+http://gorilladick4.us:2086/live/4839/4839/369.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",CNBC
+http://gorilladick4.us:2086/live/4839/4839/394.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",CMT
+http://gorilladick4.us:2086/live/4839/4839/933.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",BET HER
+http://gorilladick4.us:2086/live/4839/4839/1549.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",CBS SPORTS NETWORK
+http://gorilladick4.us:2086/live/4839/4839/375.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",CBS PHILLY
+http://gorilladick4.us:2086/live/4839/4839/415.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",CBS NY
+http://gorilladick4.us:2086/live/4839/4839/1550.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",CBS LA
+http://gorilladick4.us:2086/live/4839/4839/1638.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",CARTOON NETWORK
+http://gorilladick4.us:2086/live/4839/4839/416.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",BRAVO
+http://gorilladick4.us:2086/live/4839/4839/437.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",BOUNCE
+http://gorilladick4.us:2086/live/4839/4839/1593.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",BOOMERANG
+http://gorilladick4.us:2086/live/4839/4839/686.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",BIG TEN NETWORK
+http://gorilladick4.us:2086/live/4839/4839/390.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",BET
+http://gorilladick4.us:2086/live/4839/4839/417.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",BET SOUL
+http://gorilladick4.us:2086/live/4839/4839/1691.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",BEIN SPORTS ESPANOL
+http://gorilladick4.us:2086/live/4839/4839/1668.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",BBC AMERICA
+http://gorilladick4.us:2086/live/4839/4839/531.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",AXS TV
+http://gorilladick4.us:2086/live/4839/4839/1508.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",AUDIENCE NETWORK
+http://gorilladick4.us:2086/live/4839/4839/1679.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",ANIMAL PLANET
+http://gorilladick4.us:2086/live/4839/4839/383.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",AMC
+http://gorilladick4.us:2086/live/4839/4839/435.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",ABC PHILLY
+http://gorilladick4.us:2086/live/4839/4839/419.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",ABC NY
+http://gorilladick4.us:2086/live/4839/4839/1557.ts.
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",ABC LA 1080
+http://gorilladick4.us:2086/live/4839/4839/1636.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",A&E
+http://gorilladick4.us:2086/live/4839/4839/396.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 1♥",WORLD
+http://gorilladick4.us:2086/live/4839/4839/1094.ts
+
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",TSN 1
+http://gorilladick4.us:2086/live/4839/4839/1099.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",TSN 2
+http://gorilladick4.us:2086/live/4839/4839/1098.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",TSN 3
+http://gorilladick4.us:2086/live/4839/4839/1097.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",TSN 4
+http://gorilladick4.us:2086/live/4839/4839/1096.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",TSN 5
+http://gorilladick4.us:2086/live/4839/4839/1095.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SPORTS NET WORLD
+http://gorilladick4.us:2086/live/4839/4839/1087.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SPORTS NET WEST
+http://gorilladick4.us:2086/live/4839/4839/1089.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SPORTS NET PACIFIC
+http://gorilladick4.us:2086/live/4839/4839/1090.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SPORTS NET ONTARIO
+http://gorilladick4.us:2086/live/4839/4839/1091.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SPORTS NET ONE
+http://gorilladick4.us:2086/live/4839/4839/1092.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SPORTS NET EAST
+http://gorilladick4.us:2086/live/4839/4839/1088.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SPORTS NET 360
+http://gorilladick4.us:2086/live/4839/4839/1093.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",CTV
+http://gorilladick4.us:2086/live/4839/4839/1083.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",TRUE ENTERTAINMENT
+http://gorilladick4.us:2086/live/4839/4839/1066.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",STARZ ENCORE WESTERNS  [EXCLUSIVE]
+http://gorilladick4.us:2086/live/4839/4839/1698.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",STAR PLUS
+http://gorilladick4.us:2086/live/4839/4839/1072.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SPIKE UK
+http://gorilladick4.us:2086/live/4839/4839/1060.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SKY SPORTS F1
+http://gorilladick4.us:2086/live/4839/4839/1001.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SKY ATLANTIC
+http://gorilladick4.us:2086/live/4839/4839/1073.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SKY 1
+http://gorilladick4.us:2086/live/4839/4839/1026.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",NICK JR TOO
+http://gorilladick4.us:2086/live/4839/4839/1035.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",NAT GEO WILD UK
+http://gorilladick4.us:2086/live/4839/4839/1033.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",NAT GEO UK
+http://gorilladick4.us:2086/live/4839/4839/1032.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",OUTDOOR
+http://gorilladick4.us:2086/live/4839/4839/393.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",WWE
+http://gorilladick4.us:2086/live/4839/4839/543.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",WWE
+http://gorilladick4.us:2086/live/4839/4839/542.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",WE TV
+http://gorilladick4.us:2086/live/4839/4839/377.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",VIRGIN MUSIC
+http://wow01.105.net/live/virgin1/.m3u8
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",VH1
+http://gorilladick4.us:2086/live/4839/4839/400.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",VELOCITY
+http://gorilladick4.us:2086/live/4839/4839/357.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",USA NETWORK
+http://gorilladick4.us:2086/live/4839/4839/921.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",TV LAND
+http://gorilladick4.us:2086/live/4839/4839/378.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",TRU TV
+http://gorilladick4.us:2086/live/4839/4839/360.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",TRAVEL CHANNEL
+http://gorilladick4.us:2086/live/4839/4839/538.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",TNT
+http://gorilladick4.us:2086/live/4839/4839/387.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",TLC
+http://gorilladick4.us:2086/live/4839/4839/379.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",TENNIS
+http://gorilladick4.us:2086/live/4839/4839/517.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",TBS
+http://gorilladick4.us:2086/live/4839/4839/362.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SYFY
+http://gorilladick4.us:2086/live/4839/4839/380.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SUNDANCE
+http://gorilladick4.us:2086/live/4839/4839/347.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",STARZ
+http://gorilladick4.us:2086/live/4839/4839/404.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",STARZ KIDS
+http://gorilladick4.us:2086/live/4839/4839/364.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",PARAMOUNT NETWORK
+http://gorilladick4.us:2086/live/4839/4839/371.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SHOWTIME
+http://gorilladick4.us:2086/live/4839/4839/418.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SEC
+http://gorilladick4.us:2086/live/4839/4839/365.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",PAC 12 WASHINGTON
+http://gorilladick4.us:2086/live/4839/4839/443.ts
+
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",MTV UK
+http://gorilladick4.us:2086/live/4839/4839/1034.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SKY MOVIES THRILLER
+http://gorilladick4.us:2086/live/4839/4839/1023.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SHOWTIME BEYOND [EXCLUSIVE]
+http://gorilladick4.us:2086/live/4839/4839/1696.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SKY MOVIES SELECT
+http://gorilladick4.us:2086/live/4839/4839/1022.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",STARZ COMEDY [EXCLUSIVE]
+http://gorilladick4.us:2086/live/4839/4839/1697.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",PICK TV
+http://gorilladick4.us:2086/live/4839/4839/1053.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SKY MOVIES SCI-FI/HORROR
+http://gorilladick4.us:2086/live/4839/4839/1021.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SKY MOVIES PREMIER
+http://gorilladick4.us:2086/live/4839/4839/1020.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",PREMIER SPORTS
+http://gorilladick4.us:2086/live/4839/4839/1012.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SKY MOVIES HITS
+http://gorilladick4.us:2086/live/4839/4839/1019.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SKY MOVIES GREATS
+http://gorilladick4.us:2086/live/4839/4839/1018.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SKY MOVIES FAMILY
+http://gorilladick4.us:2086/live/4839/4839/1017.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SKY MOVIES DRAMA & ROMANCE
+http://gorilladick4.us:2086/live/4839/4839/1016.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SKY MOVIES COMEDY
+http://gorilladick4.us:2086/live/4839/4839/1014.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SKY MOVIES ACTION
+http://gorilladick4.us:2086/live/4839/4839/1013.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",YESTERDAY
+http://gorilladick4.us:2086/live/4839/4839/1054.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",QUEST
+http://gorilladick4.us:2086/live/4839/4839/1058.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",W
+http://gorilladick4.us:2086/live/4839/4839/1064.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",Sky Sports Action
+http://gorilladick4.us:2086/live/4839/4839/998.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",MUSIC CHOICE
+http://gorilladick4.us:2086/live/4839/4839/1567.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",GLOBAL
+http://gorilladick4.us:2086/live/4839/4839/1084.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",REALLY
+http://gorilladick4.us:2086/live/4839/4839/1055.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",TRUE CRIME
+http://gorilladick4.us:2086/live/4839/4839/1067.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SHOWTIME SHOWCASE [EXCLUSIVE]
+http://gorilladick4.us:2086/live/4839/4839/1680.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SKY MOVIES DISNEY
+http://gorilladick4.us:2086/live/4839/4839/1015.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",UNIVERSAL UK
+http://gorilladick4.us:2086/live/4839/4839/1063.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SHOWTIME EXTREME [EXCLUSIVE]
+http://gorilladick4.us:2086/live/4839/4839/1501.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",STARZ IN BLACK [EXCLUSIVE]
+http://gorilladick4.us:2086/live/4839/4839/1682.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",TRUE MOVIES 1
+http://gorilladick4.us:2086/live/4839/4839/1077.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",NICK JR UK
+http://gorilladick4.us:2086/live/4839/4839/1544.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",TRUE MOVIES 2
+http://gorilladick4.us:2086/live/4839/4839/1076.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SHOWTIME 2 [EXCLUSIVE]
+http://gorilladick4.us:2086/live/4839/4839/1500.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SLICE
+http://gorilladick4.us:2086/live/4839/4839/1086.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",STARZ ENCORE [EXCLUSIVE]
+http://gorilladick4.us:2086/live/4839/4839/1700.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SHOWTIME WOMEN [EXCLUSIVE]
+http://gorilladick4.us:2086/live/4839/4839/1699.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SKY SPORTS NEWS
+http://gorilladick4.us:2086/live/4839/4839/1003.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SKY SPORTS MIX
+http://gorilladick4.us:2086/live/4839/4839/1002.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",Sky Sports Premier League
+http://gorilladick4.us:2086/live/4839/4839/1000.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",Sky Sports Golf
+http://gorilladick4.us:2086/live/4839/4839/999.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",Sky Sports Cricket
+http://gorilladick4.us:2086/live/4839/4839/997.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",Sky Sports Main Event
+http://gorilladick4.us:2086/live/4839/4839/996.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",SKY LIVING
+http://gorilladick4.us:2086/live/4839/4839/1057.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",CBC CA
+http://gorilladick4.us:2086/live/4839/4839/1080.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",MUSIC CHOICE Y2K
+http://gorilladick4.us:2086/live/4839/4839/1581.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",MUSIC CHOICE TROPICALES
+http://gorilladick4.us:2086/live/4839/4839/1585.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",MUSIC CHOICE TODDLER TUNES 
+http://gorilladick4.us:2086/live/4839/4839/1587.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",MUSIC CHOICE TODAY'S COUNTRY 
+http://gorilladick4.us:2086/live/4839/4839/1578.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",MUSIC CHOICE THROWBACK JAMS 
+http://gorilladick4.us:2086/live/4839/4839/1580.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",MUSIC CHOICE TEEN BEATS 
+http://gorilladick4.us:2086/live/4839/4839/1577.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",MUSIC CHOICE ROCK 
+http://gorilladick4.us:2086/live/4839/4839/1576.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",MUSIC CHOICE RAP 
+http://gorilladick4.us:2086/live/4839/4839/1574.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",MUSIC CHOICE RAP 00'S 
+http://gorilladick4.us:2086/live/4839/4839/1575.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",MUSIC CHOICE R&B SOUL 
+http://gorilladick4.us:2086/live/4839/4839/1573.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",MUSIC CHOICE POP LATINO 
+http://gorilladick4.us:2086/live/4839/4839/1584.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",MUSIC CHOICE POP HITS 
+http://gorilladick4.us:2086/live/4839/4839/1572.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",MUSIC CHOICE POP & COUNTRY 
+http://gorilladick4.us:2086/live/4839/4839/1571.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",MUSIC CHOICE MUSICA URBANA 
+http://gorilladick4.us:2086/live/4839/4839/1583.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",MUSIC CHOICE MEXICANA 
+http://gorilladick4.us:2086/live/4839/4839/1582.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",MUSIC CHOICE METAL 
+http://gorilladick4.us:2086/live/4839/4839/1570.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",MUSIC CHOICE KIDS ONLY 
+http://gorilladick4.us:2086/live/4839/4839/1586.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",MUSIC CHOICE INDIE 
+http://gorilladick4.us:2086/live/4839/4839/1569.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",MUSIC CHOICE HIT LIST 
+http://gorilladick4.us:2086/live/4839/4839/1568.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",MUSIC CHOICE DANCE/EDM 
+http://gorilladick4.us:2086/live/4839/4839/1566.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",MUSIC CHOICE BRITISH HITS 
+http://gorilladick4.us:2086/live/4839/4839/1564.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",MUSIC CHOICE ALTERNATIVE 
+http://gorilladick4.us:2086/live/4839/4839/1565.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 2♥",MUSIC CHOICE 90'S 
+http://gorilladick4.us:2086/live/4839/4839/1579.ts
+
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",MIO Stadium 104
+http://gorilladick4.us:2086/live/4839/4839/1102.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",MIO Stadium 106
+http://gorilladick4.us:2086/live/4839/4839/1104.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",MORE 4
+http://gorilladick4.us:2086/live/4839/4839/1052.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",MOVIES 4 MEN
+http://gorilladick4.us:2086/live/4839/4839/1068.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",MTV CLASSIC
+http://gorilladick4.us:2086/live/4839/4839/1024.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",MOVIES 24
+http://gorilladick4.us:2086/live/4839/4839/1075.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",MIO Stadium 107
+http://gorilladick4.us:2086/live/4839/4839/1105.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",MIO Stadium 105
+http://gorilladick4.us:2086/live/4839/4839/1103.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",ENCORE ACTION [EXCLUSIVE]
+http://gorilladick4.us:2086/live/4839/4839/1694.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",FX MOVIES
+http://gorilladick4.us:2086/live/4839/4839/1643.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",EURO SPORTS 2
+http://gorilladick4.us:2086/live/4839/4839/1011.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",FOX UK
+http://gorilladick4.us:2086/live/4839/4839/1061.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",FILM 4
+http://gorilladick4.us:2086/live/4839/4839/1048.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",HBO
+http://gorilladick4.us:2086/live/4839/4839/502.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",HBO ZONE
+http://gorilladick4.us:2086/live/4839/4839/345.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",FXX
+http://gorilladick4.us:2086/live/4839/4839/372.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",EURO SPORTS 1
+http://gorilladick4.us:2086/live/4839/4839/1010.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",MIO Stadium 102
+http://gorilladick4.us:2086/live/4839/4839/1100.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",ITV BE
+http://gorilladick4.us:2086/live/4839/4839/1045.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",MIO Stadium 103
+http://gorilladick4.us:2086/live/4839/4839/1101.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",ITV 3
+http://gorilladick4.us:2086/live/4839/4839/1043.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",ITV 1
+http://gorilladick4.us:2086/live/4839/4839/1041.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",HBO 2
+http://gorilladick4.us:2086/live/4839/4839/348.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",HBO LATINO [EXCLUSIVE]
+http://gorilladick4.us:2086/live/4839/4839/1684.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",HORROR CHANNEL
+http://gorilladick4.us:2086/live/4839/4839/1074.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",FX
+http://gorilladick4.us:2086/live/4839/4839/429.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",ITV 2
+http://gorilladick4.us:2086/live/4839/4839/1042.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",ID UK
+http://gorilladick4.us:2086/live/4839/4839/1031.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",ITV 4
+http://gorilladick4.us:2086/live/4839/4839/1044.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",GOLD
+http://gorilladick4.us:2086/live/4839/4839/1062.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",HBO COMEDY
+http://gorilladick4.us:2086/live/4839/4839/500.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",CINEMAX ACTION MAX [EXCLUSIVE]
+http://gorilladick4.us:2086/live/4839/4839/1681.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",BET JAMS
+http://gorilladick4.us:2086/live/4839/4839/1560.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",BEIN SPORTS
+http://gorilladick4.us:2086/live/4839/4839/350.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",CINEMAX LATINO [EXCLUSIVE]
+http://gorilladick4.us:2086/live/4839/4839/1693.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",CINEMAX MOREMAX
+http://gorilladick4.us:2086/live/4839/4839/351.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",CINEMAX THRILLER MAX
+http://gorilladick4.us:2086/live/4839/4839/397.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",COMEDY CENTRAL UK
+http://gorilladick4.us:2086/live/4839/4839/1065.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",DISCOVERY HISTORY
+http://gorilladick4.us:2086/live/4839/4839/1030.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",DISCOVERY SCIENCE UK
+http://gorilladick4.us:2086/live/4839/4839/1028.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",DISCOVERY TURBO
+http://gorilladick4.us:2086/live/4839/4839/1029.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",DISCOVERY UK
+http://gorilladick4.us:2086/live/4839/4839/1027.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",DRAMA
+http://gorilladick4.us:2086/live/4839/4839/1050.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",E4
+http://gorilladick4.us:2086/live/4839/4839/1049.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",EDEN
+http://gorilladick4.us:2086/live/4839/4839/1078.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",INSP TV
+http://gorilladick4.us:2086/live/4839/4839/1939.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",MY DESTINATION TV
+http://gorilladick4.us:2086/live/4839/4839/1941.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",MSG+
+http://gorilladick4.us:2086/live/4839/4839/1780.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",FOX SPORTS SUN
+http://gorilladick4.us:2086/live/4839/4839/1971.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",FOX SPORTS FLORIDA
+http://gorilladick4.us:2086/live/4839/4839/1970.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",DECADES
+http://gorilladick4.us:2086/live/4839/4839/1934.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",ABC MIAMI
+http://gorilladick4.us:2086/live/4839/4839/1979.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",ABC HOUSTON
+http://gorilladick4.us:2086/live/4839/4839/1994.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",FOX SPORTS ARIZONA
+http://gorilladick4.us:2086/live/4839/4839/2185.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",FOX SPORTS ARIZONA
+http://gorilladick4.us:2086/live/4839/4839/2184.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",FOX SPORTS CINCINNATI
+http://gorilladick4.us:2086/live/4839/4839/2160.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",BABY TV: ESPANOL
+http://gorilladick4.us:2086/live/4839/4839/2266.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",CNN ESPANOL HD 
+http://gorilladick4.us:2086/live/4839/4839/2267.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",CINE SONY
+http://gorilladick4.us:2086/live/4839/4839/2268.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",DISCOVERY EN ESPANOL
+http://gorilladick4.us:2086/live/4839/4839/2269.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",DISCOVERY FAMILIA
+http://gorilladick4.us:2086/live/4839/4839/2270.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",DOMINICAN VIEW
+http://gorilladick4.us:2086/live/4839/4839/2271.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",GALAVISION
+http://gorilladick4.us:2086/live/4839/4839/2272.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",HISTORY EN ESPANOL
+http://gorilladick4.us:2086/live/4839/4839/2273.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",NAT GEO MUNDO
+http://gorilladick4.us:2086/live/4839/4839/2274.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",ELEVEN SPORTS
+http://gorilladick4.us:2086/live/4839/4839/2275.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",OUTSIDE TV
+http://gorilladick4.us:2086/live/4839/4839/2276.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",EPIX HITS
+http://gorilladick4.us:2086/live/4839/4839/2277.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥", NHL 01 OILERS @ SHARKS 10:30 PM ET
+http://gorilladick4.us:2086/live/4839/4839/2241.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",CBS ERIE
+http://gorilladick4.us:2086/live/4839/4839/2046.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",NFL NETWORK
+http://gorilladick4.us:2086/live/4839/4839/405.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sftNsjtF/GEARS.png" group-title="GEARS TV 3♥",ESPN GOAL LINE
+http://gorilladick4.us:2086/live/4839/4839/2292.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="BONUS♥",US: BEIN SPORTS CONNECT 1 FHD
+http://31.220.1.190:8080/NewuserCathy/ksS4A4glC7/138372
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="BONUS♥",US: BEIN SPORTS CONNECT 2 FHD
+http://31.220.1.190:8080/NewuserCathy/ksS4A4glC7/138373
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="BONUS♥",US: BEIN SPORTS CONNECT 4 FHD
+http://31.220.1.190:8080/NewuserCathy/ksS4A4glC7/138375
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="BONUS♥",US: BEIN SPORTS CONNECT 5 FHD
+http://31.220.1.190:8080/NewuserCathy/ksS4A4glC7/138376
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="BONUS♥",US: BEIN SPORTS CONNECT 6 FHD
+http://31.220.1.190:8080/NewuserCathy/ksS4A4glC7/138377
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="BONUS♥",US: BEIN SPORTS CONNECT 7 FHD
+http://31.220.1.190:8080/NewuserCathy/ksS4A4glC7/138378
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="BONUS♥",US: BEIN SPORTS CONNECT 8 FHD
+http://31.220.1.190:8080/NewuserCathy/ksS4A4glC7/138379
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="THAILAND♥",FOX SPORTS 2
+http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="THAILAND♥",FOX SPORTS 3
+http://119.59.125.74/stream/totnew.php?channel_id=443ea6ef1768462aaffdff38ce2a4355&.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="THAILAND♥",NAT GEO WILD
+http://119.59.125.74/stream/totnew.php?channel_id=90d14bbf53d14b018d4439ffba6be283&.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="THAILAND♥",NAT GEO PEOPLE
+http://119.59.125.74/stream/totnew.php?channel_id=7ad09373f65c48d5bb6aa6c3b2ca519a&.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="THAILAND♥",NAT GEO
+http://119.59.125.74/stream/totnew.php?channel_id=850a8ca433184938bfaeaf770abc5d7a&.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="THAILAND♥",FOX ACTION MOVIES
+http://119.59.125.74/stream/totnew.php?channel_id=6744e98748214c32912a46d1c7277d55&.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="THAILAND♥",FOX THAILAND
+http://119.59.125.74/stream/totnew.php?channel_id=d0bfb50bee3741a09c53f8099a64ad52&.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="THAILAND♥",FOX CRIME
+http://119.59.125.74/stream/totnew.php?channel_id=48773319e9324602b258e3f1d33ec111&.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="THAILAND♥",NAT GEO
+http://119.59.125.74/stream/totnew.php?channel_id=850a8ca433184938bfaeaf770abc5d7a&.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="THAILAND♥",NAT GEO WILD
+http://119.59.125.74/stream/totnew.php?channel_id=90d14bbf53d14b018d4439ffba6be283&.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="THAILAND♥",NHK WORLD TV
+http://119.59.125.74/stream/totnew.php?channel_id=cd25fccffa6f4a2f8d7190d3e8907440&.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="THAILAND♥",NICK JR
+http://119.59.125.74/stream/totnew.php?channel_id=09fffe8d426745689f60cbc24da1bb49&.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="THAILAND♥",PPTV HD
+http://119.59.125.74/stream/totnew.php?channel_id=623d009180394c528880c14e2254452a&.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="THAILAND♥",FOX Crime TH
+http://119.59.125.74/stream/totnew.php?channel_id=5028f7ff1d1b4d5f8189690233364737&.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="THAILAND♥",FOX Action TH
+http://119.59.125.74/stream/totnew.php?channel_id=206105b34a1c44b886c6cd3c59105803&.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="THAILAND♥",Nat Geo TH
+http://119.59.125.74/stream/totnew.php?channel_id=29fb241f985c468e8e6ffa8942b00a69&.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="THAILAND♥",Nat Wild TH
+http://119.59.125.74/stream/totnew.php?channel_id=607fa33938bc4a3ea6c43ce47ddb8ed8&.m3u8
+
+
