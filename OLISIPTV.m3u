@@ -371,124 +371,56 @@ http://rtmp.one.by:1300
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/Y9nzzh99/A3.png" group-title="MUSIC♥",O FHD
 http://77.232.128.68/bks.m3u8
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOX Movies
-http://113.161.66.38:4022/rtp/232.84.1.10:8034
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOX Movies HD
-http://113.161.66.38:4022/rtp/232.84.1.77:8436
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOX-SPORTS-HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-SPORTS-HD/tracks-v1a1/mono.m3u8?token=8d67a1ebad7da3b6f845e369f5144308-1541429335-5be054bd0ebc0599b32143b7
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOX-SPORTS 2
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-SPORTS2/tracks-v1a1/mono.m3u8?token=e720abeeacbf5fd31832db7d88cf681c-1541429836-5be054bd0ebc0599b32143b7
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",K+PM HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-HBO-HD/tracks-v1a1/mono.m3u8?token=c07fa89c22718fa5cbb837eaf786bd11-1541430134-5be054bd0ebc0599b32143b7
+#EXTINF:0 tvg-id="FOXmovies.svn" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",K+PC HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-Movies-HD/tracks-v1a1/mono.m3u8?token=050fa661f332b90c47fbefb1bce34d3f-1541430628-5be054bd0ebc0599b32143b7
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",K+NS-HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-K+NS-HD/tracks-v1a1/mono.m3u8?token=3af00c81cf38e7424bb6f1a2224bdf99-1541430327-5be054bd0ebc0599b32143b7
+#EXTINF:0 tvg-id="fox-crime" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOX-HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-HD/tracks-v1a1/mono.m3u8?token=0b032611aee0dd1c262644bf0e2cfcd5-1541430384-5be054bd0ebc0599b32143b7
+#EXTINF:0 tvg-id="axn.pt" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",AXN-HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-AXN-HD/tracks-v1a1/mono.m3u8?token=4f3cc784d486954f2d56a3697b278710-1541430279-5be054bd0ebc0599b32143b7
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",HBO
-http://113.161.66.38:4022/rtp/232.84.1.19:8088
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Red By HBO
-http://113.161.66.38:4022/rtp/232.84.1.44:8244
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Red By HBO HD
-http://113.161.66.38:4022/rtp/232.84.1.9:8028
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",MAX By HBO
-http://113.161.66.38:4022/rtp/232.84.1.20:8094
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",AXN
-http://113.161.66.38:4022/rtp/232.84.1.14:8058
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOX HD
-http://113.161.66.38:4022/rtp/232.84.2.120:8448
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Warner 
-http://113.161.66.38:4022/rtp/232.84.2.50:10510
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Warner HD
-http://113.161.66.38:4022/rtp/232.84.2.51:10516
+http://58.186.149.250:8889/udp/225.1.2.232:30120
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",MAX by HBO
+http://58.186.149.250:8889/udp/225.1.2.86:30120
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",RED by HBO
+http://58.186.149.250:8889/udp/225.1.1.89:30120
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOXMOVIE
+http://58.186.149.250:8889/udp/225.1.2.238:30120
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOXLIFE
+http://58.186.149.250:8889/udp/225.1.2.236:30120
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOX
-http://113.161.66.38:4022/rtp/232.84.1.66:8370
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOX Life HD
-http://113.161.66.38:4022/rtp/232.84.1.77:8436
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Diva Universal
-http://113.161.66.38:4022/rtp/232.84.1.109:10230
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Diva Universal HD
-http://113.161.66.38:4022/rtp/232.84.2.130:9576
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Nat Geo Wild HD
-http://113.161.66.38:4022/rtp/232.84.2.123:8454
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",National Geographic
-http://113.161.66.38:4022/rtp/232.84.2.122:8364
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",National Geographic HD
-http://113.161.66.38:4022/rtp/232.84.1.1:7980
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Nat Geo People
-http://113.161.66.38:4022/rtp/232.84.2.121:8376
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Nat Geo People HD
-http://113.161.66.38:4022/rtp/232.84.1.76:8430
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",DISCOVERY
-http://113.161.66.38:4022/rtp/232.84.1.47:8262
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Discovery Asia HD
-http://113.161.66.38:4022/rtp/232.84.2.53:10528
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Animal Planet
-http://113.161.66.38:4022/rtp/232.84.1.48:8268
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Asian Food Channel
-http://113.161.66.38:4022/rtp/232.84.1.115:10236
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Asian Food Channel HD
-http://113.161.66.38:4022/rtp/232.84.2.129:9570
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Australia Plus
-http://113.161.66.38:4022/rtp/232.84.2.244:10482
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Da Vinci Learning
-http://113.161.66.38:4022/rtp/232.84.1.108:10224
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Da Vinci Learning HD
-http://113.161.66.38:4022/rtp/232.84.2.131:9582
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Outdoor Channel HD
-http://113.161.66.38:4022/rtp/232.84.1.107:10218
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Travel & Living
-http://113.161.66.38:4022/rtp/232.84.1.49:8274
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",CNN
-http://113.161.66.38:4022/rtp/232.84.2.126:8076
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",BBC World News
-http://113.161.66.38:4022/rtp/232.84.2.239:10452
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Arirang
-http://113.161.66.38:4022/rtp/232.84.1.43:8238
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",DW TV
-http://113.161.66.38:4022/rtp/232.84.1.6:8010
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",DW TV HD
-http://113.161.66.38:4022/rtp/232.84.2.233:10416
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",France 24
-http://113.161.66.38:4022/rtp/232.84.2.135:9606
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",TV5MONDE
-http://113.161.66.38:4022/rtp/232.84.1.45:8250
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",KBS World
-http://113.161.66.38:4022/rtp/232.84.2.136:9612
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",MEDIACORP
-http://113.161.66.38:4022/rtp/232.84.1.5:8004
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Bloomberg
-http://113.161.66.38:4022/rtp/232.84.1.7:8016
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",CCTV4 Tiếng Trung
-http://113.161.66.38:4022/rtp/232.84.1.3:7992
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",NHK WORLD
-http://113.161.66.38:4022/rtp/232.84.1.8:8022
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",NHK WORLD HD
-http://113.161.66.38:4022/rtp/232.84.1.72:8406
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",OPT 1 Tiếng Nga
-http://113.161.66.38:4022/rtp/232.84.1.63:8352
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",POCCNR PTP Tiếng Nga
-http://113.161.66.38:4022/rtp/232.84.2.127:8544
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",RT Tiếng Nga
-http://113.161.66.38:4022/rtp/232.84.2.125:8538
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Rai Italia
-http://113.161.66.38:4022/rtp/232.84.2.124:8358
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",CARTOON NETWORK
-http://113.161.66.38:4022/rtp/232.84.1.16:8070
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",DISNEY
-http://113.161.66.38:4022/rtp/232.84.1.18:8082
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Disney Junior
-http://113.161.66.38:4022/rtp/232.84.1.90:10398
+http://58.186.149.250:8889/udp/225.1.1.52:30120
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",WARNER TV
+http://58.186.149.250:8889/udp/225.1.1.139:30120
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",GEM
-http://113.161.66.38:4022/rtp/232.84.1.84:10392
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",TOONAMI
-http://113.161.66.38:4022/rtp/232.84.1.91:10404
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOX SPORTS
-http://113.161.66.38:4022/rtp/232.84.1.11:8040
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOX SPORTS 2
-http://113.161.66.38:4022/rtp/232.84.1.12:8046
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Channel V
-http://113.161.66.38:4022/rtp/232.84.1.13:8052
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Channel V HD
-http://113.161.66.38:4022/rtp/232.84.2.132:9588
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Star World
-http://113.161.66.38:4022/rtp/232.84.2.119:8382
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Star World HD
-http://113.161.66.38:4022/rtp/232.84.1.78:8442
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FASHION
-http://113.161.66.38:4022/rtp/232.84.1.2:7986
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FTV HD
-http://113.161.66.38:4022/rtp/232.84.2.52:10522
+http://58.186.149.250:8889/udp/225.1.1.17:30120
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",AXN
+http://58.186.149.250:8889/udp/225.1.2.224:30120
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",KIX
+http://58.186.149.250:8889/udp/225.1.2.144:30120
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Fashion TV
+http://stream-03.ix7.dailymotion.com/48/dm/3/x3m6nld/live-4.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Fashion and Life Style
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Fashion Top Model
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Fashion Destination
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Fashion For Men
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/chunklist_b4700000_t64MTA4MHA==.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Fashion Runway
+http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FASHION MIDNIGHT 18+
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",JASMIN TV 18+
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
 
 #EXTINF:0 tvg-id="Animax.de" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS♥",ANIMAX
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
