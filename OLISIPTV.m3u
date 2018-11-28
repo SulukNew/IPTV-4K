@@ -458,65 +458,54 @@ http://163.172.86.57:3135/B/2/index.m3u8
 #EXTINF:0 tvg-id="BTSport3.uk" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",BT Sport 3
 http://163.172.86.59:3135/1513/BT/index.m3u8
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",AR: BeIN Sports_HD1
-http://hall2mark.ddns.net:80/medoum1/medoum/6907
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",AR: BeIN Sports_HD2
-http://hall2mark.ddns.net:80/medoum1/medoum/6906
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",AR: BeIN Sports_HD3
-http://hall2mark.ddns.net:80/medoum1/medoum/6905
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",AR: BeIN Sports_HD4
-http://hall2mark.ddns.net:80/medoum1/medoum/6904
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",AR: BeIN Sports_HD5
-http://hall2mark.ddns.net:80/medoum1/medoum/6903
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",AR: BeIN Sports_HD6
-http://hall2mark.ddns.net:80/medoum1/medoum/6902
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",AR: BeIN Sports_HD7
-http://hall2mark.ddns.net:80/medoum1/medoum/6901
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",AR: BeIN Sports_HD8
-http://hall2mark.ddns.net:80/medoum1/medoum/6900
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",AR: BeIN Sports_HD9
-http://hall2mark.ddns.net:80/medoum1/medoum/6899
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",AR: BeIN Sports_10HD
-http://hall2mark.ddns.net:80/medoum1/medoum/6898
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",AR: BeIN Sports_11HD
-http://hall2mark.ddns.net:80/medoum1/medoum/6897
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",UK: Sky sports MainEvents
-http://hall2mark.ddns.net:80/medoum1/medoum/2919
-#EXTINF:0 tvg-id="SkySpFball.uk" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",UK: Sky sport Football HD
-http://hall2mark.ddns.net:80/medoum1/medoum/5593
-#EXTINF:0 tvg-id="SkySpPL.uk" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",UK: Sky Sport Premier League HD
-http://hall2mark.ddns.net:80/medoum1/medoum/20853
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",UK: Sky sport golf HD
-http://hall2mark.ddns.net:80/medoum1/medoum/4105
-#EXTINF:0 tvg-id="SkySpAction.uk" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",UK: Sky Sport Action HD
-http://hall2mark.ddns.net:80/medoum1/medoum/2917
-#EXTINF:0 tvg-id="SkySpArena.uk" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",UK: Sky sport Arena HD
-http://hall2mark.ddns.net:80/medoum1/medoum/5594
-#EXTINF:0 tvg-id="SkySpF1.uk" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",UK: Sky sport F1 HD
-http://hall2mark.ddns.net:80/medoum1/medoum/3046
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",UK: Sky Sport Mix HD
-http://hall2mark.ddns.net:80/medoum1/medoum/3041
-#EXTINF:0 tvg-id="SkySportsNews.uk" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",UK: Sky Sports News HQ.
-http://hall2mark.ddns.net:80/medoum1/medoum/3919
-#EXTINF:0 tvg-id="SkySportsNews.uk" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",UK: Sky Sports News HD
-http://hall2mark.ddns.net:80/medoum1/medoum/4256
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",AR: Bein Sports 1 HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2563.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",AR: Bein Sports 2 HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2562.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",AR: Bein Sports 3 HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2561.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",AR: Bein Sports 4 HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2560.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",AR: Bein Sports 5 HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2559.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",AR: Bein Sports 6 HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2558.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",AR: Bein Sports 7 HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2557.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",AR: Bein Sports 8 HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2556.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",AR: Bein Sports 9 HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2555.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",AR: Bein Sports 10 HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2554.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",AR: Bein Sports 11 HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2553.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",AR: Bein Sports 12 HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2552.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",AR: Bein Sports 1 FR HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2600.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",AR: Bein Sports 3 FR HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2602.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",AR: Bein Sports 2 FR HD
+http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2601.ts
 
-#EXTINF:0 tvg-id="ext" vg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR:OTE  SPORT1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥", GR:OTE  SPORT1
 http://uiptv.dyndns.tv:8000/Cemkaan/Cemkaan123/20754
-#EXTINF:0 tvg-id="ext" vg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR:OTE  SPORT2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥", GR:OTE  SPORT2
 http://uiptv.dyndns.tv:8000/Cemkaan/Cemkaan123/20755
-#EXTINF:0 tvg-id="ext" vg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR:OTE  SPORT 3
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥", GR:OTE  SPORT 3
 http://uiptv.dyndns.tv:8000/Cemkaan/Cemkaan123/20756
-#EXTINF:0 tvg-id="ext" vg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR:OTE  SPORT 4
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥", GR:OTE  SPORT 4
 http://uiptv.dyndns.tv:8000/Cemkaan/Cemkaan123/20757
-#EXTINF:0 tvg-id="ext" vg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR:OTE  SPORT 5
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥", GR:OTE  SPORT 5
 http://uiptv.dyndns.tv:8000/Cemkaan/Cemkaan123/20758
-#EXTINF:0 tvg-id="ext" vg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR:OTE  SPORT 6
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥", GR:OTE  SPORT 6
 http://uiptv.dyndns.tv:8000/Cemkaan/Cemkaan123/20759
-#EXTINF:0 tvg-id="ext" vg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR:OTE  SPORT 7
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥", GR:OTE  SPORT 7
 http://uiptv.dyndns.tv:8000/Cemkaan/Cemkaan123/20760
-#EXTINF:0 tvg-id="ext" vg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="SPORTS 2♥",GR:OTE  SPORT 8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥", GR:OTE  SPORT 8
 http://uiptv.dyndns.tv:8000/Cemkaan/Cemkaan123/20761
+
 
 #EXTVLCOPT:http-user-agent=apollo13xx
 #EXTINF:0 tvg-id="BTSport3.uk" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",BeOutQ SPORTS 1 HD
