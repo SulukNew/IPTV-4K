@@ -8,7 +8,7 @@ https://www.dropbox.com/s/mm43ay1v9avek25/IPTV.mp4?dl=1
 #EXTINF:-1 tvg-name="CHAMPIONS LEAGUE" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="GROUP A♥",CHAMPIONS LEAGUE
 http://www.dropbox.com/s/ouds419ikri607v/introUCL.mp4?dl=1
 #EXTINF:-1 tvg-name="EN: Atl. Madrid VS AS Monaco" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="GROUP A♥",EN: Atl. Madrid VS AS Monaco
-http://rb-group-server.com:25461/live/888888/777777/4776.m3u8
+http://163.172.218.205:8081/2Ten/2/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM3ZWMxY2NjMGU6MTUzMzg5MDU4Mw==
 #EXTINF:-1 tvg-name="FR: Atl. Madrid VS AS Monaco" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="GROUP A♥",FR: Atl. Madrid VS AS Monaco
 http://212.8.253.47:88/555155895930609/555155895930609/3452
 #EXTINF:-1 tvg-name="AR: Atl. Madrid VS AS Monaco" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="GROUP A♥",AR: Atl. Madrid VS AS Monaco
@@ -25,12 +25,12 @@ http://217.64.25.182:8000/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-name="CHAMPIONS LEAGUE" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="GROUP B♥",CHAMPIONS LEAGUE
 http://www.dropbox.com/s/ouds419ikri607v/introUCL.mp4?dl=1
+#EXTINF:-1 tvg-name="EN: PSV vs FC Barcelona" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="GROUP B♥",EN: PSV vs FC Barcelona
+http://163.172.218.205:8081/2Ten/2/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM3ZWMxY2NjMGU6MTUzMzg5MDU4Mw==
 #EXTINF:-1 tvg-name="AR: PSV vs FC Barcelona" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="GROUP B♥",AR: PSV vs FC Barcelona
 http://212.8.253.47:88/555155895930609/555155895930609/5194
 #EXTINF:-1 tvg-name="FR: PSV vs FC Barcelona" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="GROUP B♥",FR: PSV vs FC Barcelona
 http://212.8.253.47:88/555155895930609/555155895930609/3452
-#EXTINF:-1 tvg-name="EN: PSV vs FC Barcelona" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="GROUP B♥",EN: PSV vs FC Barcelona
-http://rb-group-server.com:25461/live/888888/777777/4776.m3u8
 #EXTINF:-1 tvg-name="RU: PSV vs FC Barcelona" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="GROUP B♥",RU: PSV vs FC Barcelona
 http://persik.by/stream/808/284814/346.m3u8
 #EXTINF:-1 tvg-name="SE: PSV vs FC Barcelona" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="GROUP B♥",SE: PSV vs FC Barcelona
@@ -45,10 +45,10 @@ http://217.64.25.182:8000/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-name="CHAMPIONS LEAGUE" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="GROUP C♥",CHAMPIONS LEAGUE
 http://www.dropbox.com/s/ouds419ikri607v/introUCL.mp4?dl=1
+#EXTINF:-1 tvg-name="EN: PSG vs Liverpool" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="GROUP C♥",EN: PSG vs Liverpool
+http://163.172.211.93:8081/Ten/1/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM3ZWMxY2NjMGU6MTUzMzg5MDU4Mw==
 #EXTINF:-1 tvg-name="AR: PSG vs Liverpool" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="GROUP C♥",AR: PSG vs Liverpool
 http://212.8.253.47:88/555155895930609/555155895930609/5192
-#EXTINF:-1 tvg-name="EN: PSG vs Liverpool" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="GROUP C♥",EN: PSG vs Liverpool
-http://rb-group-server.com:25461/live/888888/777777/4774.m3u8
 #EXTINF:-1 tvg-name="IT: PSG vs Liverpool" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="GROUP C♥",IT: PSG vs Liverpool
 http://rb-group-server.com:25461/live/888888/777777/3550.m3u8
 #EXTINF:-1 tvg-name="RU: PSG vs Liverpool" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="GROUP C♥",RU: PSG vs Liverpool
