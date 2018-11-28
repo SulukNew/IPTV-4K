@@ -1,0 +1,100 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gJ042W60/IPTV1.png" group-title="WELCOME️♥",SULUK INTRO
+http://www.dropbox.com/s/85cv9jpn14qwwi7/Intro%20IPTV.mp4?dl=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gJ042W60/IPTV1.png" group-title="WELCOME️♥",SULUK ANTHEM
+https://www.dropbox.com/s/mm43ay1v9avek25/IPTV.mp4?dl=1
+
+#EXTINF:-1 tvg-name="UCL GROUP A" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png",UCL GROUP A
+http://www.dropbox.com/s/ouds419ikri607v/introUCL.mp4?dl=1
+#EXTINF:-1 tvg-name="UCL-logo.png",EN: Atl. Madrid VS AS Monaco
+http://rb-group-server.com:25461/live/888888/777777/4776.m3u8
+#EXTINF:-1 tvg-name="UCL-logo.png",FR: Atl. Madrid VS AS Monaco
+http://212.8.253.47:88/555155895930609/555155895930609/3452
+#EXTINF:-1 tvg-name="UCL-logo.png",AR: Atl. Madrid VS AS Monaco
+http://212.8.253.47:88/555155895930609/555155895930609/5192
+#EXTINF:-1 tvg-name="UCL-logo.png",RU: Atl. Madrid VS AS Monaco
+http://persik.by/stream/808/284814/346.m3u8
+
+#EXTINF:-1 tvg-name="UCL GROUP A" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png",UCL GROUP A
+http://www.dropbox.com/s/ouds419ikri607v/introUCL.mp4?dl=1
+#EXTINF:-1 tvg-name="UCL-logo.png",EN: Dortmund vs Club Brugge
+http://rb-group-server.com:25461/live/888888/777777/4744.m3u8
+#EXTINF:-1 tvg-name="UCL-logo.png",AR: Dortmund vs Club Brugge
+http://212.8.253.47:88/555155895930609/555155895930609/3463
+#EXTINF:-1 tvg-name="UCL-logo.png",RU: Dortmund vs Club Brugge
+http://217.64.25.182:8000/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-name="UCL GROUP B" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png",UCL GROUP B
+http://www.dropbox.com/s/ouds419ikri607v/introUCL.mp4?dl=1
+#EXTINF:-1 tvg-name="UCL-logo.png",AR: Tott. Hotspur vs Inter Milan
+http://212.8.253.47:88/555155895930609/555155895930609/70
+#EXTINF:-1 tvg-name="UCL-logo.png",EN: Tott. Hotspur vs Inter Milan
+http://rb-group-server.com:25461/live/888888/777777/4775.m3u8
+#EXTINF:-1 tvg-name="UCL-logo.png",RU: Tott. Hotspur vs Inter Milan
+http://217.64.25.182:8000/play/a00f/index.m3u8
+
+#EXTINF:-1 tvg-name="UCL GROUP B" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png",UCL GROUP B
+http://www.dropbox.com/s/ouds419ikri607v/introUCL.mp4?dl=1
+#EXTINF:-1 tvg-name="UCL-logo.png",AR: PSV vs FC Barcelona
+http://212.8.253.47:88/555155895930609/555155895930609/5194
+#EXTINF:-1 tvg-name="UCL-logo.png",FR: PSV vs FC Barcelona
+http://212.8.253.47:88/555155895930609/555155895930609/3452
+#EXTINF:-1 tvg-name="UCL-logo.png",EN: PSV vs FC Barcelona
+http://rb-group-server.com:25461/live/888888/777777/4776.m3u8
+#EXTINF:-1 tvg-name="UCL-logo.png",RU: PSV vs FC Barcelona
+http://persik.by/stream/808/284814/346.m3u8
+#EXTINF:-1 tvg-name="UCL-logo.png",SE: PSV vs FC Barcelona
+http://212.8.253.47:88/555155895930609/555155895930609/2917
+
+#EXTINF:-1 tvg-name="UCL GROUP C" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png",UCL GROUP C
+http://www.dropbox.com/s/ouds419ikri607v/introUCL.mp4?dl=1
+#EXTINF:-1 tvg-name="UCL-logo.png",AR: PSG vs Liverpool
+http://212.8.253.47:88/555155895930609/555155895930609/5192
+#EXTINF:-1 tvg-name="UCL-logo.png",EN: PSG vs Liverpool
+http://rb-group-server.com:25461/live/888888/777777/4774.m3u8
+#EXTINF:-1 tvg-name="UCL-logo.png",IT: PSG vs Liverpool
+http://rb-group-server.com:25461/live/888888/777777/3550.m3u8
+#EXTINF:-1 tvg-name="UCL-logo.png",RU: PSG vs Liverpool
+http://persik.by/stream/808/284814/276.m3u8
+#EXTINF:-1 tvg-name="UCL-logo.png",FR: PSG vs Liverpool
+http://212.8.253.47:88/555155895930609/555155895930609/3451
+#EXTINF:-1 tvg-name="UCL-logo.png",SE: PSG vs Liverpool
+http://212.8.253.47:88/555155895930609/555155895930609/2919
+
+#EXTINF:-1 tvg-name="UCL GROUP C" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png",UCL GROUP C
+http://www.dropbox.com/s/ouds419ikri607v/introUCL.mp4?dl=1
+#EXTINF:-1 tvg-name="UCL-logo.png",AR: SSC Napoli vs Crvena Zvezda
+http://212.8.253.47:88/555155895930609/555155895930609/3464
+#EXTINF:-1 tvg-name="UCL-logo.png",EN: SSC Napoli vs Crvena Zvezda
+http://212.8.253.47:88/555155895930609/555155895930609/2923
+#EXTINF:-1 tvg-name="UCL-logo.png",RU: SSC Napoli vs Crvena Zvezda
+http://persik.by/stream/808/284814/10217.m3u8
+#EXTINF:-1 tvg-name="UCL-logo.png",SE: SSC Napoli vs Crvena Zvezda
+http://212.8.253.47:88/555155895930609/555155895930609/2916
+
+#EXTINF:-1 tvg-name="UCL GROUP D" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png",UCL GROUP D
+http://www.dropbox.com/s/ouds419ikri607v/introUCL.mp4?dl=1
+#EXTINF:-1 tvg-name="UCL-logo.png",RU: Lok. Moscow vs Galatasaray
+http://persik.by/stream/808/284814/276.m3u8
+#EXTINF:-1 tvg-name="UCL-logo.png",IT: Lok. Moscow vs Galatasaray
+http://rb-group-server.com:25461/live/888888/777777/3550.m3u8
+#EXTINF:-1 tvg-name="UCL-logo.png",EN: Lok. Moscow vs Galatasaray
+http://rb-group-server.com:25461/live/888888/777777/4774.m3u8
+#EXTINF:-1 tvg-name="UCL-logo.png",FR: Lok. Moscow vs Galatasaray
+http://212.8.253.47:88/555155895930609/555155895930609/3451
+#EXTINF:-1 tvg-name="UCL-logo.png",AR: Lok. Moscow vs Galatasaray
+http://212.8.253.47:88/555155895930609/555155895930609/70
+
+#EXTINF:-1 tvg-name="UCL GROUP D" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png",UCL GROUP D
+http://www.dropbox.com/s/ouds419ikri607v/introUCL.mp4?dl=1
+#EXTINF:-1 tvg-name="UCL-logo.png",UA-RU: FC Porto vs  Schalke 04
+http://37.193.191.170:4022/udp/239.1.12.5:1234
+#EXTINF:-1 tvg-name="UCL-logo.png",DE: FC Porto vs  Schalke 04
+http://rb-group-server.com:25461/live/888888/777777/3551.m3u8
+#EXTINF:-1 tvg-name="UCL-logo.png",EN: FC Porto vs  Schalke 04
+http://212.8.253.47:88/555155895930609/555155895930609/2921
+#EXTINF:-1 tvg-name="UCL-logo.png",AR: FC Porto vs  Schalke 04
+http://212.8.253.47:88/555155895930609/555155895930609/3462
+
+
