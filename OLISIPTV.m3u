@@ -394,40 +394,41 @@ http://rtmp.one.by:1300
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/Y9nzzh99/A3.png" group-title="MUSIC♥",O FHD
 http://77.232.128.68/bks.m3u8
 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",K+1
+http://iptv-nl3-qscdn.hdflixtv.com/VN-K+1-HD/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",K+PM HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-K+PM-HD/index.m3u8
+#EXTINF:0 tvg-id="FOXmovies.svn" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",K+PC HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-K+PC-HD/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",K+NS-HD
+http://iptv-nl3-qscdn.hdflixtv.com/VN-K+NS-HD/index.m3u8
+
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOX-SPORTS-HD
 http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-SPORTS-HD/tracks-v1a1/mono.m3u8?token=8d67a1ebad7da3b6f845e369f5144308-1541429335-5be054bd0ebc0599b32143b7
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOX-SPORTS 2
 http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-SPORTS2/tracks-v1a1/mono.m3u8?token=e720abeeacbf5fd31832db7d88cf681c-1541429836-5be054bd0ebc0599b32143b7
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",K+PM HD
-http://iptv-nl3-qscdn.hdflixtv.com/VN-HBO-HD/tracks-v1a1/mono.m3u8?token=c07fa89c22718fa5cbb837eaf786bd11-1541430134-5be054bd0ebc0599b32143b7
-#EXTINF:0 tvg-id="FOXmovies.svn" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",K+PC HD
-http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-Movies-HD/tracks-v1a1/mono.m3u8?token=050fa661f332b90c47fbefb1bce34d3f-1541430628-5be054bd0ebc0599b32143b7
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",K+NS-HD
-http://iptv-nl3-qscdn.hdflixtv.com/VN-K+NS-HD/tracks-v1a1/mono.m3u8?token=3af00c81cf38e7424bb6f1a2224bdf99-1541430327-5be054bd0ebc0599b32143b7
-#EXTINF:0 tvg-id="fox-crime" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOX-HD
-http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-HD/tracks-v1a1/mono.m3u8?token=0b032611aee0dd1c262644bf0e2cfcd5-1541430384-5be054bd0ebc0599b32143b7
-#EXTINF:0 tvg-id="axn.pt" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",AXN-HD
-http://iptv-nl3-qscdn.hdflixtv.com/VN-AXN-HD/tracks-v1a1/mono.m3u8?token=4f3cc784d486954f2d56a3697b278710-1541430279-5be054bd0ebc0599b32143b7
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOX SPORT HD
+http://hplusliveall.e96bbe18.sabai.vn/f833be7c09ec71e02accd00479d193d71543513479/foxsports1-720/chunklist.m3u8
+
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",HBO
-http://58.186.149.250:8889/udp/225.1.2.232:30120
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",MAX by HBO
-http://58.186.149.250:8889/udp/225.1.2.86:30120
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",RED by HBO
-http://58.186.149.250:8889/udp/225.1.1.89:30120
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOXMOVIE
-http://58.186.149.250:8889/udp/225.1.2.238:30120
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOXLIFE
-http://58.186.149.250:8889/udp/225.1.2.236:30120
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOX
-http://58.186.149.250:8889/udp/225.1.1.52:30120
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",WARNER TV
-http://58.186.149.250:8889/udp/225.1.1.139:30120
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",GEM
-http://58.186.149.250:8889/udp/225.1.1.17:30120
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",AXN
-http://58.186.149.250:8889/udp/225.1.2.224:30120
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",KIX
-http://58.186.149.250:8889/udp/225.1.2.144:30120
+http://123.29.129.196/v5live.m3u8?c=vstv036&q=high&deviceType=4&userId=13782&deviceId=&type=tv&rkey=112920287OCnx9uj&p=0&zn=netott&ctl=3.31&sl=6&drmsrv=drmv.mytvnet.vn&pkg=pkg0&location=&rbk=20316270138&pnode=172.16.10.62&isp=vn
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/02.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",FOX MOVIE
+http://hplusliveall.e96bbe18.sabai.vn/45915f0216eff42fbe3baebd42d73f3d1543513244/foxmovies-720p.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",ACTION MOVIES
+http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",TRAVEL HD
+http://persik.by/stream/2944/263250/88.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",NAT. GEO HD
+http://persik.by/stream/2944/263250/10243.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",HISTORY HD
+http://persik.by/stream/2944/263250/10244.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",DISCOVERY SCIENCE HD
+http://80.80.160.168/live/9/2500000/live.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",DISCOVERY HD
+http://80.80.160.168/live/8/2500000/live.m3u8
+
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Fashion TV
 http://stream-03.ix7.dailymotion.com/48/dm/3/x3m6nld/live-4.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/MKkgwVFY/iflix.png" group-title="IFLIX♥",Fashion and Life Style
