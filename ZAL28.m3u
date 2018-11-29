@@ -4,12 +4,35 @@ https://www.dropbox.com/s/85cv9jpn14qwwi7/Intro%20IPTV.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gJ042W60/IPTV1.png" group-title="WELCOME️♥",SULUK ANTHEM
 https://www.dropbox.com/s/mm43ay1v9avek25/IPTV.mp4?dl=1
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",TRANSVISION
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",TRANSVISION HD
 http://210.210.155.35/uq2663/h/h234/index2.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",RCTI
-http://202.80.222.182/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-id="cnn" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",CNN HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",NET_TV HD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",TRANS7 HD
+http://stream-04.sg1.dailymotion.com/dm/3/x6p1gw7/live-3.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",TRANS_TV HD
+http://id2.indostreamingtv.com/live/tv33/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",METRO TV HD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",KOMPAS HD
+https://stream-04.sg1.dailymotion.com/06/dm/3/x5rh8ih/live-3.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",RCTI HD
 http://id8.indostreamingtv.com/live/tv66/index.m3u8
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",GLOBAL_TV HD
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",MNC HD
+http://id2.indostreamingtv.com/live/event/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",INDOSIAR HD
+http://id1.indostreamingtv.com/live/tv11/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",SCTV HD
+http://id7.indostreamingtv.com/live/tv2/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",BERITA SATU HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b1128000.m3u8
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",RCTI
+http://202.80.222.182/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",RCTI AFF
 https://stream.sindonews.net/live/rctioke.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",INDOSIAR
@@ -24,29 +47,23 @@ http://202.80.222.182:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomai
 http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",TRANS 7
 http://202.80.222.182/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",TRANS7 HD
-http://stream-04.sg1.dailymotion.com/dm/3/x6p1gw7/live-2.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",TRANS TV
 http://202.80.222.182/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",BERITA SATU HD
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-#EXTINF:0 tvg-id="cnn" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",CNN HD [IND]
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",NET TV
 http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",NET TV HD
-http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",ANTV
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",ANTV 2
+http://id2.indostreamingtv.com/live/tv4/index.m3u8
 #EXTINF:0 tvg-id="TVOne.uk" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",TV ONE
 http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",TV ONE FEED
 http://id1.indostreamingtv.com/live/tv44/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",KOMPAS TV
 http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",KOMPAS HD
-https://stream-04.sg1.dailymotion.com/06/dm/3/x5rh8ih/live-3.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",METRO HD
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",METRO
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",TVRI 2
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
