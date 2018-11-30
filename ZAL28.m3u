@@ -83,6 +83,8 @@ http://202.80.222.171:80/000001/2/ch00000090990000001716/index.m3u8?virtualDomai
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",JTV SURABAYA
 http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VsRprmrX/L1.png" group-title="INDO♥",OXYGEN.id HD
+http://103.76.14.102:9026/livee/mpegts/oxygen360/index.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/bJ1vdvwZ/L12.png" group-title="MELAYU♥",ASTRO HELLO
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
@@ -175,7 +177,7 @@ http://livestream.biznetvideo.net/biznet_ngwild/_definst_/stream_ngwild/chunklis
 #EXTINF:0 tvg-id="animal_rus" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="ENTERTAINT♥",ANIMAL PLANET
 http://80.80.160.168/live/1/live.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",JARUM_Super_SoccerTV
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",JARUM SUPER SOCCER TV
 http://210.210.155.35/uq2663/h/h135/01.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",Astro 1
 http://203.154.243.89:1204
@@ -187,6 +189,12 @@ http://203.154.243.89:1207
 http://203.154.243.89:1211
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",PPTVHD
 http://119.59.125.74/stream/totnew.php?channel_id=623d009180394c528880c14e2254452a&.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",GOLF HD
+http://xtream.mine.nu:12106/GoftHD
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",SUPER SOCCER JARUM
+http://xtream.mine.nu:12106/supersocer
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",WWE HD
+http://flu1.podzone.net:9091/WWE/Net2/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",FEED BULU TANGKIS
 https://defjwd5stvrhj.cloudfront.net/out/v1/54a201076b1e46ee83027a72ef637252/index_2.m3u8
 #EXTINF:0 tvg-id="TenSports.in" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",Sony TEN 1
