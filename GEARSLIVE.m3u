@@ -689,3 +689,34 @@ http://163.172.211.229:8000/live/apptest/ssappt/46.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/ZYPJVZX6/GEARS-007.png" group-title="GEARS 007♥♥",TRING SPORT 4 HD
 http://163.172.211.229:8000/live/apptest/ssappt/47.ts
 
+#EXTVLCOPT:http-user-agent=gj68j8fq3
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/ZYPJVZX6/GEARS-007.png" group-title="GEARS 007♥♥",BeIN Sport 1 HD (AR)
+http://51.15.3.71:8000/live/albi322/kanale666/52.ts
+#EXTVLCOPT:http-user-agent=gj68j8fq3
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/ZYPJVZX6/GEARS-007.png" group-title="GEARS 007♥♥",BeIN SPORTS 2 HD (AR)
+http://51.15.3.71:8000/live/albi322/kanale666/53.ts
+#EXTVLCOPT:http-user-agent=gj68j8fq3
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/ZYPJVZX6/GEARS-007.png" group-title="GEARS 007♥♥",BeIN SPORTS 3 HD (AR)
+http://51.15.3.71:8000/live/albi322/kanale666/54.ts
+#EXTVLCOPT:http-user-agent=gj68j8fq3
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/ZYPJVZX6/GEARS-007.png" group-title="GEARS 007♥♥",BeIN SPORTS 4 HD (AR)
+http://51.15.3.71:8000/live/albi322/kanale666/55.ts
+#EXTVLCOPT:http-user-agent=gj68j8fq3
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/ZYPJVZX6/GEARS-007.png" group-title="GEARS 007♥♥",BeIN SPORTS 5 HD (AR)
+http://51.15.3.71:8000/live/albi322/kanale666/56.ts
+#EXTVLCOPT:http-user-agent=gj68j8fq3
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/ZYPJVZX6/GEARS-007.png" group-title="GEARS 007♥♥",BeIN SPORTS 6 HD (AR)
+http://51.15.3.71:8000/live/albi322/kanale666/57.ts
+#EXTVLCOPT:http-user-agent=gj68j8fq3
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/ZYPJVZX6/GEARS-007.png" group-title="GEARS 007♥♥",BeIN SPORTS 7 HD (AR)
+http://51.15.3.71:8000/live/albi322/kanale666/58.ts
+#EXTVLCOPT:http-user-agent=gj68j8fq3
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/ZYPJVZX6/GEARS-007.png" group-title="GEARS 007♥♥",BeIN SPORTS 8 HD (AR).
+http://51.15.3.71:8000/live/albi322/kanale666/59.ts
+#EXTVLCOPT:http-user-agent=gj68j8fq3
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/ZYPJVZX6/GEARS-007.png" group-title="GEARS 007♥♥",BeIN Sorts 9 HD (AR)
+http://51.15.3.71:8000/live/albi322/kanale666/60.ts
+#EXTVLCOPT:http-user-agent=gj68j8fq3
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/ZYPJVZX6/GEARS-007.png" group-title="GEARS 007♥♥",BeIN SPORTS 10 HD (AR)
+http://51.15.3.71:8000/live/albi322/kanale666/61.ts
+
