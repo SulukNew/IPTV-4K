@@ -197,6 +197,7 @@ http://xtream.mine.nu:12106/supersocer
 http://flu1.podzone.net:9091/WWE/Net2/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",FEED BULU TANGKIS
 https://defjwd5stvrhj.cloudfront.net/out/v1/54a201076b1e46ee83027a72ef637252/index_2.m3u8
+
 #EXTINF:0 tvg-id="TenSports.in" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",Sony TEN 1
 http://163.172.211.93:8081/Ten/1/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM3ZWMxY2NjMGU6MTUzMzg5MDU4Mw==
 #EXTINF:0 tvg-id="TenAction.in" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",Sony TEN 2
@@ -206,7 +207,7 @@ http://163.172.86.57:3135/Ten/3/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM
 #EXTINF:0 tvg-id="SonySix.in" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",Sony SIX
 http://163.172.86.59:3135/sONY/6sICHD/index.m3u8?token=ZDAyYTdkYTY2Yjc5MjgzNzU0MjFiM2VjOGZhMzgxYWY6MTUzMzg5MDU4Mw==
 #EXTINF:0 tvg-id="SonySix.in" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",Sony ESPN
-http://125.17.105.168/wh7f454c46tw3044125113_1979135345/PLTV/88888888/224/3221226076/05.m3u8
+http://163.172.86.59:3135/sONY/3sPnHd/index.m3u8?token=ZDAyYTdkYTY2Yjc5MjgzNzU0MjFiM2VjOGZhMzgxYWY6MTUzMzg5MDU4Mw==
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/KjZWqsVK/L2.png" group-title="FIT SPORT♥",FOX-SPORTS-HD [VT]
 http://iptv-nl3-qscdn.hdflixtv.com/VN-FOX-SPORTS-HD/tracks-v1a1/mono.m3u8
@@ -407,6 +408,8 @@ http://163.172.211.93:8081/BT/1/index.m3u8
 http://163.172.86.57:3135/B/2/index.m3u8
 #EXTINF:0 tvg-id="BTSport3.uk" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",BT Sport 3
 http://163.172.86.59:3135/1513/BT/index.m3u8
+#EXTINF:0 tvg-id="BTSport3.uk" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",BT Sport ESPN
+http://163.172.86.59:3135/Espn/BT/index.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥", AR: Bein Sports 1 HD
 http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/2563.ts
@@ -582,6 +585,7 @@ http://niobzca.cf:8080/joas/1234/63314
 http://niobzca.cf:8080/joas/1234/89322
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/vH16dfJz/L13.png" group-title="RELAX♥",OSN Movies Premiere 2 HD
 http://niobzca.cf:8080/joas/1234/88746
+
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/hvHYkqHK/L9.png" group-title="TEMPORARY♥",CINEMA ACTION & ADVENTURE HD
 http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1051.ts
