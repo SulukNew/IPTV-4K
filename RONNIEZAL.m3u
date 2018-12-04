@@ -3,8 +3,6 @@
 https://www.dropbox.com/s/85cv9jpn14qwwi7/Intro%20IPTV.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J79Hhz7w/D10.png" group-title="WELC♥ME️",SULUK ANTHEM
 https://www.dropbox.com/s/mm43ay1v9avek25/IPTV.mp4?dl=1
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J79Hhz7w/D10.png" group-title="WELC♥ME️",INTRO CHAMPIONS LEAGUE
-https://www.dropbox.com/s/ouds419ikri607v/introUCL.mp4?dl=1
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="IND♥NESIA",SUPERSOCCER
 http://210.210.155.35/uq2663/h/h135/01.m3u8
@@ -62,8 +60,12 @@ http://persik.by/stream/2944/263250/32.m3u8
 http://161.0.157.6/PLTV/88888888/224/3221226299/01.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",ANIPLUS
 http://210.210.155.35/session/e67f45e6-e859-11e8-91c5-b521a1c6fb62/dr9445/h/h02/index2.m3u8
-#EXTINF:0 tvg-id="DisneyXD.uk" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",DISNEY XD
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/96.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",DISNEY CHANNEL
+http://newyork.streamlive.to/mobile/2tag4dzgwof5ma2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDE4IDM6NDY6MzYgUE0maGFzaF92YWx1ZT0zamRac3phT3pNMjZHZFNRZHlEeHJnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMiZpZD0x
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",Disney XD
+http://newyork.streamlive.to/mobile/9kzz2h2p7e5ejgy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDE4IDI6MTA6MDYgUE0maGFzaF92YWx1ZT1MMy83bmZkQTMzNlYwUnVwS21sRzlnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMiZpZD0x
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",NICKELODEON
+http://newyork.streamlive.to/mobile/64jaber5pjqj2cr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDE4IDM6NDQ6NTAgUE0maGFzaF92YWx1ZT1kN0xjUTc4eUUyU2YrS2R5amladkx3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMiZpZD0x
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",TOONAMI
 http://forzatv.tk:8080/live/lucky/444555/1479.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",DISNEY JR IDN
@@ -76,7 +78,7 @@ http://forzatv.tk:8080/live/lucky/444555/2754.ts
 http://forzatv.tk:8080/live/lucky/444555/1162.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",DISNEY CH
 http://forzatv.tk:8080/live/lucky/444555/2749.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",KISS CARTOON
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",KIDS CARTOON
 http://forzatv.tk:8080/live/lucky/444555/2746.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",BABY TV
 http://forzatv.tk:8080/live/lucky/444555/2742.ts
@@ -84,6 +86,10 @@ http://forzatv.tk:8080/live/lucky/444555/2742.ts
 http://forzatv.tk:8080/live/lucky/444555/2632.ts
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",MIAO MI
 http://forzatv.tk:8080/live/lucky/444555/2085.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",Nick Jr.
+http://newyork.streamlive.to/mobile/zmtfudkfx3neras/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDE4IDM6NDg6NDQgUE0maGFzaF92YWx1ZT14MW14Snh2aUxxNUVOWXRiZ3pJSXlRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMiZpZD0x
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",Nicktoons
+http://newyork.streamlive.to/mobile/477ltm5ematwdhs/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDE4IDI6MDg6NTQgUE0maGFzaF92YWx1ZT1ZRk5XQllnTG5TVk9yZ1d6RW0wQVpBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMiZpZD0x
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",SONY PIX HD
 http://redflixhosting.services/airtel/at.php?id=http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
@@ -188,6 +194,11 @@ http://restream.geniptv.com:8080/Harald/123456/18569
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="LOVE♥ASIA",Ginx TV/CH3 TH
 http://restream.geniptv.com:8080/Harald/123456/9387
 
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",DSPORT HD
+http://redflixhosting.services/airtel/at.php?id=http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",WWE Network
+http://newyork.streamlive.to/mobile/i69u9isa4x7rbxf/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDE4IDQ6MTQ6MzAgUE0maGFzaF92YWx1ZT11Mk4rZ0tXREdHQlFiL1hyNXFFN1lnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMiZpZD0x
+
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",BEIN SPORTS 1 HD PH
 http://restream.geniptv.com:8080/Harald/123456/24198
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",BEIN SPORTS 2 HD PH
@@ -262,17 +273,6 @@ http://restream.geniptv.com:8080/Harald/123456/8504
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",beIN Sports 4 HD TH
 http://restream.geniptv.com:8080/Harald/123456/8503
 
-#EXTINF:0 tvg-id="TenSports.in" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Sony TEN 1
-http://163.172.211.93:8081/Ten/1/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM3ZWMxY2NjMGU6MTUzMzg5MDU4Mw==
-#EXTINF:0 tvg-id="TenAction.in" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Sony TEN 2
-http://163.172.218.205:8081/2Ten/2/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM3ZWMxY2NjMGU6MTUzMzg5MDU4Mw==
-#EXTINF:0 tvg-id="TenCricket.in" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Sony TEN 3
-http://163.172.86.57:3135/Ten/3/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM3ZWMxY2NjMGU6MTUzMzg5MDU4Mw==
-#EXTINF:0 tvg-id="SonySix.in" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Sony SIX
-http://163.172.86.59:3135/sONY/6sICHD/index.m3u8?token=ZDAyYTdkYTY2Yjc5MjgzNzU0MjFiM2VjOGZhMzgxYWY6MTUzMzg5MDU4Mw==
-#EXTINF:0 tvg-id="SonySix.in" tvg-logo="https://i.postimg.cc/CMfd9pGc/D6.png" group-title="SPORT♥ASIA",Sony ESPN
-http://163.172.86.59:3135/sONY/3sPnHd/index.m3u8?token=ZDAyYTdkYTY2Yjc5MjgzNzU0MjFiM2VjOGZhMzgxYWY6MTUzMzg5MDU4Mw==
-
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",SKY SPORTS F1
 http://gorilladick4.us:2086/live/irishboy/irishboy/1001.ts
@@ -332,15 +332,6 @@ http://gorilladick4.us:2086/live/irishboy/irishboy/1007.ts
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",BT SPORTS ESPN
 http://gorilladick4.us:2086/live/irishboy/irishboy/1008.ts
-
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",RMC Sport 1
-http://185.93.3.84:5019/play/a00d
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",RMC Sport 2
-http://185.93.3.84:5019/play/a00e
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",RMC Sport 3
-http://185.93.3.84:5019/play/a00g
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/63NBDmKS/GEARS2.png" group-title="LOVE♥GEARS_TV",RMC Sport 4
-http://185.93.3.84:5019/play/a00m
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",beINSports 1 FHD ARB
 http://restream.geniptv.com:8080/Harald/123456/8776
@@ -626,3 +617,46 @@ http://forzatv.tk:8080/live/lucky/444555/365.ts
 http://forzatv.tk:8080/live/lucky/444555/1885.ts
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",TRACE AFRICA
 http://forzatv.tk:8080/live/lucky/444555/367.ts
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",INTRO CHAMPIONS LEAGUE
+https://www.dropbox.com/s/ouds419ikri607v/introUCL.mp4?dl=1
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",MATCH FOOTBALL 1 HD
+http://persik.by/stream/3602/287583/10266.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",MATCH FOOTBALL 2 HD
+http://persik.by/stream/3602/287583/10267.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",MATCH FOOTBALL 3 HD
+http://persik.by/stream/3602/287583/10268.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",MATCH ARENA
+http://persik.by/stream/3602/287583/261.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",MATCH
+http://persik.by/stream/3602/287583/1077.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",RMC Sport 1
+http://185.93.3.84:5019/play/a00d
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",RMC Sport 2
+http://185.93.3.84:5019/play/a00e
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",RMC Sport 3
+http://185.93.3.84:5019/play/a00g
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",RMC Sport 4
+http://185.93.3.84:5019/play/a00m
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",BT Sport 1
+http://163.172.211.93:8081/BT/1/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",BT Sport 2
+http://163.172.86.57:3135/B/2/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",BT Sport 3
+http://163.172.86.59:3135/1513/BT/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",BT Sport ESPN
+http://163.172.86.59:3135/Espn/BT/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",SONY TEN 1 HD
+http://redflixhosting.services/airtel/at.php?id=http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/04.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",SONY TEN 2 HD
+http://redflixhosting.services/airtel/at.php?id=http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/04.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",SONY TEN 3 HD
+http://redflixhosting.services/airtel/at.php?id=http://mhms8.airtel.tv/wh7f454c46tw1915960971_986066483/PLTV/88888888/224/3221226330/04.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",SONY SIX HD
+http://redflixhosting.services/airtel/at.php?id=http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/04.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="CHAMPIONS♥LEAGUE",SONY ESPN HD
+http://redflixhosting.services/airtel/at.php?id=http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/04.m3u8
+
