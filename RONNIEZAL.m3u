@@ -63,6 +63,41 @@ http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",AniPlus 
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: MBC1 HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/46
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: MBC2 HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/26
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: MBC3 HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/47
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: MBC4 HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/27
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN Movies HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/248
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN Movies Action HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/139
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN Movies Disney HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9606
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN Movies First HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/3519
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN Movies Thriller HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/147
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN First HBO HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/4056
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN Paramount HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13028
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN TLC HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13026
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN SYFY HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13027
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN E! HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11174
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN ITV Choice
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/7487
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN Star Movies HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/7697
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",AR: OSN Star World HD
+http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/250
+
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",HBO
 http://123.29.129.197/v5live.m3u8?c=vstv036&q=auto&deviceType=7&userId=5&deviceId=10122055&type=tv&rkey=12251855kKiHJPns&p=0&zn=netott&ctl=10.108&sl=6&drmsrv=drmv.mytvnet.vn&pkg=pkg0&profiles=high,medium&location=&rbk=20316270135&pnode=172.16.29.9
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥ASIA",ASTRO HELLO
@@ -383,20 +418,6 @@ http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6958.ts
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/P5MCKbWh/D1.png" group-title="WORLD♥SPORT",DAZN SPORT 9
 http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6959.ts
 
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",ES: M.FORMULA 1 HD
-http://playa.mine.nu:44444/iptvking/prueba070217/288
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",ES: M.MOTO GP
-http://paya.mine.nu:44444/iptvking/prueba070217/360
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",ES LA LIGA TV HD
-http://playa.mine.nu:44444/iptvking/prueba070217/2656
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",ES BEIN LA LIGA HD
-http://playa.mine.nu:44444/iptvking/prueba070217/37
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",ES LA LIGA TV
-http://playa.mine.nu:44444/iptvking/prueba070217/6661
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",ES LA LIGA 123
-http://playa.mine.nu:44444/iptvking/prueba070217/8617
-
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",ELEVEN SPORTS 1 HD
 http://62.210.124.106:8000/live/aplicacao/scp4ever/16.ts
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/YC4ssFXx/L5.png" group-title="WORLD♥SPORT 2",ELEVEN SPORTS 2 HD
@@ -606,31 +627,31 @@ http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/
 
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",DISCOVERY HD
-http://gorilladick4.us:2086/live/dog4life/dog4life/402.ts
+http://gorilladick4.us:2086/live/irishboy/irishboy/402.ts
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",DISCOVERY SCIENCE HD
-http://gorilladick4.us:2086/live/dog4life/dog4life/465.ts
+http://gorilladick4.us:2086/live/irishboy/irishboy/465.ts
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",INVESTIGATION DISCOVERY HD
-http://gorilladick4.us:2086/live/dog4life/dog4life/407.ts
+http://gorilladick4.us:2086/live/irishboy/irishboy/407.ts
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",NATIONAL GEOGRAPHIC HD
-http://gorilladick4.us:2086/live/dog4life/dog4life/537.ts
+http://gorilladick4.us:2086/live/irishboy/irishboy/537.ts
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",NAT GEO WILD HD
-http://gorilladick4.us:2086/live/dog4life/dog4life/358.ts
+http://gorilladick4.us:2086/live/irishboy/irishboy/358.ts
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",ANIMAL PLANET HD
-http://gorilladick4.us:2086/live/dog4life/dog4life/383.ts
+http://gorilladick4.us:2086/live/irishboy/irishboy/383.ts
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",HISTORY HD
-http://gorilladick4.us:2086/live/dog4life/dog4life/425.ts
+http://gorilladick4.us:2086/live/irishboy/irishboy/425.ts
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",MILITERY HISTORY HD
-http://gorilladick4.us:2086/live/dog4life/dog4life/480.ts
+http://gorilladick4.us:2086/live/irishboy/irishboy/480.ts
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",HGTV HD
-http://gorilladick4.us:2086/live/dog4life/dog4life/412.ts
+http://gorilladick4.us:2086/live/irishboy/irishboy/412.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",NATIONAL GEOGRAPHIC
 http://210.210.155.35/uq2663/h/h11/index.m3u8
@@ -663,13 +684,13 @@ http://80.80.160.168/live/1/live.m3u8
 
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",MTV LIVE HD
-http://gorilladick4.us:2086/live/dog4life/dog4life/519.ts
+http://gorilladick4.us:2086/live/irishboy/irishboy/519.ts
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",MTV HD
-http://gorilladick4.us:2086/live/dog4life/dog4life/422.ts
+http://gorilladick4.us:2086/live/irishboy/irishboy/422.ts
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",MTV CLASSIC HD
-http://gorilladick4.us:2086/live/dog4life/dog4life/1690.ts
+http://gorilladick4.us:2086/live/irishboy/irishboy/1690.ts
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/1RgNPqQc/D3.png" group-title="LOVE♥MUSIC",DANGDUTZ
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
