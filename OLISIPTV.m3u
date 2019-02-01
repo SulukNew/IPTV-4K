@@ -827,6 +827,9 @@ http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",DISCOVERY TURBO
+http://gorilladick4.us:2086/live/victor23/victor23/1029.ts
+#EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",DISCOVERY HD
 http://gorilladick4.us:2086/live/victor23/victor23/402.ts
 #EXTVLCOPT:http-user-agent=PotzGtvRebrand/V.2.2
